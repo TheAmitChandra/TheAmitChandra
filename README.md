@@ -1,90 +1,38 @@
-<!-- Futuristic AI Header -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ffbf9,100:2b86c5&text=Amit%20Chandra%20%7C%20AI%20Engineer&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</p> -->
-<!-- Futuristic AI Header -->
 <p align="center">
-  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/ai-futuristic.svg" width="100%" alt="AI Futuristic Banner"/>
+  <img src="assets/header.svg" alt="AI Futuristic Header" />
 </p>
 
-<h1 align="center">👨‍💻 Hi, I'm Amit Chandra</h1>
-<h3 align="center">🚀 AI Engineer | 🤖 Machine Learning | 🧠 Deep Learning</h3>
+<h1 align="center">👋 Hey, I’m Amit Chandra</h1>
+<h3 align="center">🚀 AI Engineer | Machine Learning | Generative AI | RAG Systems</h3>
 
 ---
 
-<!-- Typing animation -->
+### 🧠 About Me
+- 🔭 Working on **AI-powered applications** that solve real-world problems  
+- 🌱 Exploring **LLMs, RAG, Autonomous Agents & MLOps**  
+- ⚡ Love blending **research + engineering** to push AI limits  
+- 🎯 Goal → **Build AI systems that wow businesses & people**
+
+---
+
+### 🔥 Skills
+💡 **Languages** → Python | SQL | JavaScript  
+🤖 **AI/ML** → scikit-learn | PyTorch | TensorFlow | Hugging Face  
+🛠 **Tools** → Odoo | FastAPI | Docker | GitHub Actions  
+📊 **Focus** → Recommendation Systems | NLP | RAG | Agents  
+
+---
+
+### 🐍 Contribution Snake
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+Crafting+Intelligent+Systems;Building+End-to-End+AI+Applications;Lover+of+Neural+Networks+%26+NLP;Turning+Data+into+Decisions" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## 🌌 About Me  
-- 🔭 Currently working on **AI-powered systems & recommendation engines**  
-- 🧩 Skilled in **Python, ML, DL, NLP, FastAPI, React, SQL**  
-- 📡 Exploring **RAG Agents, Generative AI & Applied ML**  
-- ⚡ Fun fact: I turn coffee ☕ into optimized algorithms ⚙️  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,react,js,html,css,git,github,linux,docker,postgresql,mysql" />
+  <img src="assets/snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
-
+### ⚡ Futuristic Vibe
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=radical" alt="streak stats" />
+  <img src="assets/matrix-rain.gif" alt="Matrix AI Effect" width="100%"/>
+  <br/>
+  <img src="assets/footer.svg" alt="AI Futuristic Footer" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=radical" alt="stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&theme=radical" alt="top langs" height="180"/>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## 🌍 Let’s Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/theamitchandra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/TheAmitChandra">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:theamitchandra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Cool visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAmitChandra&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="views" />
-</p>
-
-<!-- Matrix Rain Footer -->
-<!-- <p align="center">
-  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/matrix-rain.gif" width="100%" alt="Matrix Rain"/>
-</p> -->
-<!-- Matrix Footer -->
-<p align="center">
-  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/matrix-footer.svg" width="100%" alt="Matrix Footer"/>
-</p>
-

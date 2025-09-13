@@ -1,0 +1,44 @@
+name: Generate Header & Footer
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Futuristic Header
+        run: |
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100">
+            <defs>
+              <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" style="stop-color:#00f; stop-opacity:1" />
+                <stop offset="100%" style="stop-color:#0ff; stop-opacity:1" />
+              </linearGradient>
+            </defs>
+            <rect width="100%" height="100%" fill="black"/>
+            <text x="50%" y="50%" font-size="48" fill="url(#grad)" text-anchor="middle" alignment-baseline="middle">
+              🚀 TheAmitChandra | AI Engineer 🤖
+            </text>
+          </svg>' > assets/header.svg
+
+      - name: Generate Futuristic Footer
+        run: |
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80">
+            <rect width="100%" height="100%" fill="black"/>
+            <text x="50%" y="50%" font-size="20" fill="#00ffcc" text-anchor="middle" alignment-baseline="middle">
+              ⚡ Powered by AI | Building the Future ⚡
+            </text>
+          </svg>' > assets/footer.svg
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/header.svg assets/footer.svg
+          git commit -m "update header & footer" || echo "No changes"
+          git push
