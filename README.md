@@ -1,6 +1,10 @@
-<!-- Futuristic AI Banner -->
+<!-- Futuristic AI Header -->
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ffbf9,100:2b86c5&text=Amit%20Chandra%20%7C%20AI%20Engineer&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</p> -->
+<!-- Futuristic AI Header -->
 <p align="center">
-  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/ai-futuristic.gif" width="100%" alt="AI Futuristic Banner"/>
+  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/ai-futuristic.svg" width="100%" alt="AI Futuristic Banner"/>
 </p>
 
 <h1 align="center">👨‍💻 Hi, I'm Amit Chandra</h1>
@@ -46,6 +50,14 @@
 
 ---
 
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 🌍 Let’s Connect  
 
 <p align="center">
@@ -68,6 +80,11 @@
 </p>
 
 <!-- Matrix Rain Footer -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/matrix-rain.gif" width="100%" alt="Matrix Rain"/>
+</p> -->
+<!-- Matrix Footer -->
+<p align="center">
+  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/matrix-footer.svg" width="100%" alt="Matrix Footer"/>
 </p>
+
