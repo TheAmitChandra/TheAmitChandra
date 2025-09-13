@@ -1,0 +1,37 @@
+name: Update Profile README
+on:
+  schedule:
+    - cron: '0 0 * * *'   # every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate README snippet
+        run: |
+          python3 - <<'PY'
+          import random
+          taglines = [
+            "Building intelligent systems 🤖",
+            "Deploying LLMs to production 🚀",
+            "AI + MLOps + Data = ❤️",
+            "Transforming research into apps ⚡"
+          ]
+          t = random.choice(taglines)
+          p = "README.md"
+          with open(p, "r", encoding="utf-8") as f:
+              content = f.read()
+          import re
+          new = re.sub(r'<!--TAGLINE-->', t, content)
+          with open(p, "w", encoding="utf-8") as f:
+              f.write(new)
+          PY
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update tagline" || echo "no changes to commit"
+          git push
