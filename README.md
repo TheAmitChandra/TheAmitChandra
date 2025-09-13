@@ -1,59 +1,73 @@
-# 👋 Hi, I'm Amit Chandra — AI Engineer
-
+<!-- Futuristic AI Banner -->
 <p align="center">
-  <img src="./assets/ai-hero.svg" alt="AI hero banner" width="100%"/>
+  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/ai-futuristic.gif" width="100%" alt="AI Futuristic Banner"/>
 </p>
 
-**I build production-grade AI systems** — LLMs, Recommender Systems, and MLOps pipelines.  
-I love turning research into real-world products ⚡.
-
-<!--TAGLINE-->
+<h1 align="center">👨‍💻 Hi, I'm Amit Chandra</h1>
+<h3 align="center">🚀 AI Engineer | 🤖 Machine Learning | 🧠 Deep Learning</h3>
 
 ---
 
-## 🔭 What I do
-- Develop **LLM-driven apps** (chatbots, RAG agents, NL2SQL).
-- Build **recommendation systems** (e.g., YouTube-style video recommender).
-- Architect **MLOps pipelines** (training, monitoring, deployment).
-- Design APIs in **FastAPI / Odoo** and integrate with production systems.
-
----
-
-## 🧰 Tech Stack
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&style=flat-square)]
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.12-orange?logo=pytorch&style=flat-square)]
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.9-orange?logo=tensorflow&style=flat-square)]
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.95-lightblue?logo=fastapi&style=flat-square)]
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&style=flat-square)]
-[![Kubernetes](https://img.shields.io/badge/K8s-1.26-blue?logo=kubernetes&style=flat-square)]
-[![Odoo](https://img.shields.io/badge/Odoo-15-purple?logo=odoo&style=flat-square)]
-
----
-
-## 📈 GitHub Stats
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheAmitChandra&theme=dark" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+Crafting+Intelligent+Systems;Building+End-to-End+AI+Applications;Lover+of+Neural+Networks+%26+NLP;Turning+Data+into+Decisions" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🔗 Featured Projects
-- [🎥 YouTube Recommendation System](https://github.com/TheAmitChandra/youtube-recommender) — TF-IDF + NearestNeighbors recommender.  
-- [🤖 SynapseQL](https://github.com/TheAmitChandra/nl2sql-db-agent) — AI agent converting natural language → SQL queries.  
-- [📊 Odoo AI Reports](https://github.com/TheAmitChandra/odoo-reports) — Department-wise reports with AI-powered analytics.  
+## 🌌 About Me  
+- 🔭 Currently working on **AI-powered systems & recommendation engines**  
+- 🧩 Skilled in **Python, ML, DL, NLP, FastAPI, React, SQL**  
+- 📡 Exploring **RAG Agents, Generative AI & Applied ML**  
+- ⚡ Fun fact: I turn coffee ☕ into optimized algorithms ⚙️  
 
 ---
 
-## 💬 Contact
-- 🌐 Portfolio: [theamitchandra.github.io](https://theamitchandra.github.io)  
-- 📧 Email: `your.email@example.com`  
-- 🐦 Twitter / X: [@theamitchandra](https://twitter.com/theamitchandra)  
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,react,js,html,css,git,github,linux,docker,postgresql,mysql" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile — always excited to collaborate on AI projects!* 🚀
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=radical" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=radical" alt="stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&theme=radical" alt="top langs" height="180"/>
+</p>
+
+---
+
+## 🌍 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/theamitchandra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/TheAmitChandra">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:theamitchandra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- Cool visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheAmitChandra&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="views" />
+</p>
+
+<!-- Matrix Rain Footer -->
+<p align="center">
+  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/main/assets/matrix-rain.gif" width="100%" alt="Matrix Rain"/>
+</p>

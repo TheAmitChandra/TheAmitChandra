@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Gradient animation -->
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff">
+        <animate attributeName="stop-color" values="#00e5ff;#7b61ff;#ff3eb8;#00e5ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff3eb8">
+        <animate attributeName="stop-color" values="#ff3eb8;#00e5ff;#7b61ff;#ff3eb8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#020114"/>
+
+  <!-- Title -->
+  <text x="50%" y="40%" text-anchor="middle" font-family="Orbitron, Roboto, sans-serif"
+        font-weight="700" font-size="50" fill="url(#neon)" filter="url(#glow)">
+    THE AMIT CHANDRA
+  </text>
+
+  <!-- Subtitle with scan animation -->
+  <text x="50%" y="60%" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="26" fill="#aab8ff">
+    AI Engineer • LLMs • MLOps
+  </text>
+
+  <!-- Scanning neon bar -->
+  <rect x="200" y="70%" width="800" height="4" fill="url(#neon)">
+    <animate attributeName="x" values="200;400;200" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Floating AI orbs -->
+  <circle cx="300" cy="300" r="6" fill="url(#neon)">
+    <animate attributeName="cy" values="300;120;300" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="320" r="5" fill="url(#neon)">
+    <animate attributeName="cy" values="320;100;320" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="310" r="4" fill="url(#neon)">
+    <animate attributeName="cy" values="310;130;310" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
