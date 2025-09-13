@@ -5,6 +5,9 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write   # ✅ allow workflow to push changes
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,7 +24,7 @@ jobs:
               </linearGradient>
             </defs>
             <rect width="100%" height="100%" fill="black"/>
-            <text x="50%" y="50%" font-size="48" fill="url(#grad)" text-anchor="middle" alignment-baseline="middle">
+            <text x="50%" y="50%" font-size="32" fill="url(#grad)" text-anchor="middle" alignment-baseline="middle">
               🚀 TheAmitChandra | AI Engineer 🤖
             </text>
           </svg>' > assets/header.svg
