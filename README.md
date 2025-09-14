@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&pause=1000&color=0FF6FF&width=800&lines=Amit+Chandra+-+AI+Engineer;🚀+Building+Futuristic+AI+Solutions;🤖+Machine+Learning+%7C+Deep+Learning+%7C+MLOps" alt="AI Neon Header" />
-</p>
+<!-- Futuristic AI Techie Profile Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Amit%20Chandra%20-%20AI%20Engineer&fontSize=40&fontColor=ffffff&color=gradient&animation=fadeIn&fontAlignY=40&desc=🚀%20Building%20Futuristic%20AI%20Solutions&descAlignY=65&descAlign=50)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Grid%20GIFs/cyber-lines.gif" width="100%" height="3px"/>
@@ -48,10 +48,5 @@
 ---
 
 <!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF1177&width=800&lines=🤖+Thanks+for+visiting+my+AI+Universe!;⚡+Stay+connected+for+more+AI+innovations;🚀+Pushing+the+boundaries+of+tech" alt="AI Neon Footer" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Glitch%20Effect/glitch-banner.gif" width="100%"/>
-</p>
+<!-- Futuristic AI Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&text=⚡%20Thanks%20for%20visiting%20my%20AI%20Tech%20Profile!%20⚡&fontSize=20&fontColor=ffffff)
