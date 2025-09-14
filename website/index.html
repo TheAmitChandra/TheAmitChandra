@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Snake — AI Engineered</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="page">
+<header class="site-header">
+<h1>Snake — Playable Demo</h1>
+<p>Use arrow keys or WASD. Tap arrows on mobile.</p>
+</header>
+
+
+<main>
+<canvas id="game" width="400" height="400"></canvas>
+<div class="hud">
+<div>Score: <span id="score">0</span></div>
+<button id="restart">Restart</button>
+</div>
+
+
+<div class="touch-controls" aria-hidden="true">
+<button id="up">▲</button>
+<div>
+<button id="left">◀</button>
+<button id="down">▼</button>
+<button id="right">▶</button>
+</div>
+</div>
+</main>
+
+
+<footer class="site-footer">Made with ❤️ • AI Engineered</footer>
+</div>
+
+
+<script src="game.js"></script>
+</body>
+</html>
