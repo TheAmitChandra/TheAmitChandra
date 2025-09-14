@@ -1,5 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=🚀%20AI%20Techie%20Profile&fontSize=40&fontColor=ffffff&color=gradient&animation=fadeIn&fontAlignY=40&desc=Futuristic%20AI%20Engineer&descAlignY=65&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Amit%20Chandra%20-%20AI%20Engineer&fontSize=40&fontColor=ffffff&color=0:0f0c29,100:302b63,200:24243e&animation=fadeIn&fontAlignY=40&desc=🚀%20Building%20Futuristic%20AI%20Solutions&descAlignY=65&descAlign=50)
+
 
 
 
@@ -43,6 +44,7 @@
 ---
 
 <!-- ===================== FOOTER ===================== -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=🤖%20Thanks%20for%20visiting%20my%20AI%20Universe!&fontSize=25&fontColor=ffffff&color=0:232526,100:414345)
+
 
 
