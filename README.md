@@ -1,7 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&width=800&lines=👋+Namaste!+I'm+Amit+Chandra;AI+Engineer+⚙️;Building+Real-World+AI;Welcome+to+my+showcase!" alt="Animated Header" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=🚀%20AI%20Techie%20Profile&fontSize=40&fontColor=ffffff&color=gradient&animation=fadeIn&fontAlignY=40&desc=Futuristic%20AI%20Engineer&descAlignY=65&descAlign=50)
+
 
 
 ---
@@ -44,9 +43,6 @@
 ---
 
 <!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animated%20Hello%20Banner/hello.gif" alt="Animated Footer" width="400"/>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=3FF36B&width=700&lines=Thanks+for+visiting+my+profile!+🚀;Let+AI+lead+us+forward!" alt="Animated Footer Typing"/>
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient)
+
 
