@@ -1,5 +1,14 @@
 <!-- ===================== HEADER ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Amit%20Chandra%20-%20AI%20Engineer&fontSize=40&fontColor=ffffff&color=0:0f0c29,100:302b63,200:24243e&animation=fadeIn&fontAlignY=40&desc=🚀%20Building%20Futuristic%20AI%20Solutions&descAlignY=65&descAlign=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Amit%20Chandra%20-%20AI%20Engineer&fontSize=40&fontColor=ffffff&color=0:0f0c29,100:302b63,200:24243e&animation=fadeIn&fontAlignY=40&desc=🚀%20Building%20Futuristic%20AI%20Solutions&descAlignY=65&descAlign=50) -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&pause=1000&color=0FF6FF&center=true&vCenter=true&width=800&lines=Amit+Chandra+-+AI+Engineer;🚀+Building+Futuristic+AI+Solutions;🤖+Machine+Learning+%7C+Deep+Learning+%7C+MLOps" alt="AI Neon Header" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Grid%20GIFs/cyber-lines.gif" width="100%" height="3px"/>
+</p>
+
 
 
 
@@ -44,7 +53,12 @@
 ---
 
 <!-- ===================== FOOTER ===================== -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=🤖%20Thanks%20for%20visiting%20my%20AI%20Universe!&fontSize=25&fontColor=ffffff&color=0:232526,100:414345)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=🤖%20Thanks%20for%20visiting%20my%20AI%20Universe!&fontSize=25&fontColor=ffffff&color=0:232526,100:414345) -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF1177&center=true&vCenter=true&width=800&lines=🤖+Thanks+for+visiting+my+AI+Universe!;⚡+Stay+connected+for+more+AI+innovations;🚀+Pushing+the+boundaries+of+tech" alt="AI Neon Footer" />
+</p>
+
 
 
 
