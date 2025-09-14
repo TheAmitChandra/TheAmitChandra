@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&width=800&lines=👋+Namaste!+I'm+Amit+Chandra;AI+Engineer+⚙️;Building+Real-World+AI;Welcome+to+my+showcase!" alt="Animated Header" />
 </p>
 
+
 ---
 
 ## 🧑‍💻 About Me
@@ -29,8 +30,9 @@
 
 ## 🐍 Contribution Snake Game
 <p align="center">
-  <img src="https://github.com/TheAmitChandra/TheAmitChandra/blob/output/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TheAmitChandra/TheAmitChandra/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
@@ -47,3 +49,4 @@
   <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=3FF36B&width=700&lines=Thanks+for+visiting+my+profile!+🚀;Let+AI+lead+us+forward!" alt="Animated Footer Typing"/>
 </p>
+
