@@ -49,4 +49,4 @@
 
 <!-- ===================== FOOTER ===================== -->
 <!-- Futuristic AI Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&text=⚡%20Thanks%20for%20visiting%20my%20AI%20Tech%20Profile!%20⚡&fontSize=20&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&text=⚡%20Thanks%20for%20visiting%20my%20Profile!%20⚡&fontSize=20&fontColor=ffffff)
