@@ -1,84 +1,102 @@
-<!-- Futuristic AI Hero Banner -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:D8B4FE,100:0EA5E9&height=220&text=Amit%20Chandra&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=AI%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=65&descAlign=50)
+<!-- ====================== AI FUTURISTIC HEADER ====================== -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&text=Amit%20Chandra%20%7C%20AI%20Engineer&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Engineering%20AI%20That%20Transforms%20Business&descAlignY=65&descAlign=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F0FF&size=27&center=true&vCenter=true&width=900&lines=AI+Engineer+Crafting+Real-World+Intelligence;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;FastAPI+%7C+Odoo+%7C+React+%7C+Scikit-Learn;Solving+Impactful+AI+Problems+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F0FF&size=26&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL+%7C+MLOps;Turning+Data+Into+Intelligence;Intelligent+Automation+%7C+Recommendation+Systems;FastAPI+%7C+Odoo+%7C+React+Expert" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheAmitChandra&style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/github/followers/TheAmitChandra?style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/stars/TheAmitChandra?style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
-## 👨‍💻 **Hey, I’m Amit — Creating AI With Purpose**
-✨ AI Engineer specialized in scalable backend intelligence & business automation
+## 🤖 About Me — AI That Matters
+I build **AI that solves real business problems** — not just demos.
 
-🔹 Focus Areas  
-- 🤖 AI/ML for smart automation  
-- 🎬 Recommendation Engines  
-- 📊 Data Engineering & Model Deployment  
-- 🔌 API + Full-Stack Integration  
+📌 *"From Models → To Products → To Impact"*
 
-🌍 Portfolio → **https://theamitchandra.github.io**
+🔹 Applied AI in FinTech, Retail, and SaaS  
+🔹 Bridging **Backend + Machine Learning + UX**  
+🔹 Obsessed with **scalability + intelligent automation**  
+
+🌐 Portfolio → https://theamitchandra.github.io  
+📄 Resume → *Add Your Resume URL Here*  
 
 ---
 
-## 🧠 **Tech Stack**
+## 🧠 Technical Intelligence Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,react,postgres,docker,git,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,sklearn,postgres,docker,git,linux,aws&theme=dark" />
 </p>
 
-> *Strong blend of AI + product engineering — from model to user.*
+> 📌 **Favorite Areas**: NLP, Recommender Systems, Optimization, Data Engineering
 
 ---
 
-## 🚀 **Flagship AI Projects**
+## 🚀 Smart Projects (with animations)
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔹 **YouTube AI Recommender** | Suggests content using TF-IDF + Nearest Neighbors | Python · FastAPI · ML |
-| 🔹 **AI Payments Engine** | Fraud-aware smart processing | ML · Odoo · Automation |
-| 🔹 **ML Pipeline System** | Data → Model → Deployment workflow | MLOps · Docker |
+| Project | Preview | Tech |
+|--------|--------|------|
+| 🎬 YouTube AI Recommendation System | <img src="https://media.tenor.com/0YP_5Ar72PoAAAAC/youtube-recommendation.gif" width="300"/> | Python · FastAPI · TF-IDF · KNN |
+| 💳 AI Payment Engine | <img src="https://media.tenor.com/jkL3RSbfqH8AAAAC/ai-fintech.gif" width="300"/> | ML · Automation · Fraud Prevention |
+| 📈 ML Pipeline System | <img src="https://media.tenor.com/YZPnGuPeZv0AAAAC/ml.gif" width="300"/> | Docker · Data Ops · Model Deployment |
 
-🔗 Explore all → https://github.com/TheAmitChandra?tab=repositories
+📌 More → https://github.com/TheAmitChandra?tab=repositories
 
 ---
 
-## 🌐 **AI Activity & Impact**
-
-📈 *Dynamic Stats Generated via AI Power ⚡*
+## 📊 AI Stats & Analytics
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## ⏳ **Live Coding Activity**
+## 🧑‍💻 Weekly Coding Time (WakaTime)
+> *Real coding insights from past 7 days ⏱*
+
+<div align="center">
+  
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=react&hide_border=true)
+
+</div>
+
+---
+
+## 🧬 AI Skill Graph (Dynamic)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAmitChandra&theme=react-dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAmitChandra&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🐍 Contribution Evolution
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheAmitChandra/TheAmitChandra/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/TheAmitChandra/TheAmitChandra/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 **Let’s Build AI Together**
+## 🎯 Hire Me / Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/theamitchandra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:theamitchandra.ac@gmail.com"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://theamitchandra.github.io"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
+<a href="https://www.linkedin.com/in/theamitchandra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:theamitchandra.ac@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://theamitchandra.github.io"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:D8B4FE&height=120&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=20&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=130&section=footer&text=Let's%20Build%20the%20AI%20Future%20🚀&fontSize=22&fontColor=ffffff)
