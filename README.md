@@ -1,52 +1,84 @@
-<!-- ===================== HEADER ===================== -->
-<!-- Futuristic AI Techie Profile Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Amit%20Chandra%20-%20AI%20Engineer&fontSize=40&fontColor=ffffff&color=gradient&animation=fadeIn&fontAlignY=40&desc=🚀%20Building%20Futuristic%20AI%20Solutions&descAlignY=65&descAlign=50)
-
+<!-- Futuristic AI Hero Banner -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:D8B4FE,100:0EA5E9&height=220&text=Amit%20Chandra&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=AI%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=65&descAlign=50)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Grid%20GIFs/cyber-lines.gif" width="100%" height="3px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F0FF&size=27&center=true&vCenter=true&width=900&lines=AI+Engineer+Crafting+Real-World+Intelligence;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;FastAPI+%7C+Odoo+%7C+React+%7C+Scikit-Learn;Solving+Impactful+AI+Problems+Every+Day" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 I’m an **AI Engineer** passionate about solving real-world problems with Machine Learning & Deep Learning.  
-- 🌱 Currently working with **Odoo, FastAPI, React, and scikit-learn**.  
-- 🎯 My mission: **AI for impact — from smart business automation to intelligent recommendations**.  
-- 🌐 Portfolio: [theamitchandra.github.io](https://theamitchandra.github.io)  
+## 👨‍💻 **Hey, I’m Amit — Creating AI With Purpose**
+✨ AI Engineer specialized in scalable backend intelligence & business automation
+
+🔹 Focus Areas  
+- 🤖 AI/ML for smart automation  
+- 🎬 Recommendation Engines  
+- 📊 Data Engineering & Model Deployment  
+- 🔌 API + Full-Stack Integration  
+
+🌍 Portfolio → **https://theamitchandra.github.io**
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 **Tech Stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0D1117&color=0D1117"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0D1117&color=0D1117"/>
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0D1117&color=0D1117"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=0D1117&color=0D1117"/>
-  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=0FF6FF&labelColor=0D1117&color=0D1117"/>
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0D1117&color=0D1117"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117&color=0D1117"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FFFF&labelColor=0D1117&color=0D1117"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,react,postgres,docker,git,sklearn&theme=dark" />
+</p>
+
+> *Strong blend of AI + product engineering — from model to user.*
+
+---
+
+## 🚀 **Flagship AI Projects**
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔹 **YouTube AI Recommender** | Suggests content using TF-IDF + Nearest Neighbors | Python · FastAPI · ML |
+| 🔹 **AI Payments Engine** | Fraud-aware smart processing | ML · Odoo · Automation |
+| 🔹 **ML Pipeline System** | Data → Model → Deployment workflow | MLOps · Docker |
+
+🔗 Explore all → https://github.com/TheAmitChandra?tab=repositories
+
+---
+
+## 🌐 **AI Activity & Impact**
+
+📈 *Dynamic Stats Generated via AI Power ⚡*
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ⏳ **Live Coding Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAmitChandra&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Game
-
+## 🐍 **Contribution Snake**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheAmitChandra/TheAmitChandra/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TheAmitChandra/TheAmitChandra/output/snake.svg" />
 </p>
 
 ---
 
-## 🚀 Featured AI Projects
-- 🤖 [AI-Powered Payment Engine](https://github.com/TheAmitChandra/sample-ai-payments)  
-- 🏆 [End-to-End ML Pipeline](https://github.com/TheAmitChandra/ml-pipeline)  
-- 🎬 [YouTube AI Recommendation System](https://github.com/TheAmitChandra/youtube-recommender)  
+## 📫 **Let’s Build AI Together**
+<p align="center">
+  <a href="https://www.linkedin.com/in/theamitchandra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:theamitchandra.ac@gmail.com"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://theamitchandra.github.io"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
+</p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-<!-- Futuristic AI Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&text=⚡%20Thanks%20for%20visiting%20my%20AI%20Tech%20Profile!%20⚡&fontSize=20&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:D8B4FE&height=120&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=20&fontColor=ffffff)
