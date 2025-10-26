@@ -68,7 +68,7 @@ I build **AI that solves real business problems** — not just demos.
 
 <div align="center">
   
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=react&hide_border=true)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=AmitChandra&layout=compact&theme=react&hide_border=true)
 
 </div>
 
