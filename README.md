@@ -1,87 +1,112 @@
-<!-- ====================== AI FUTURISTIC HEADER ====================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&text=Amit%20Chandra%20%7C%20AI%20Engineer&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Engineering%20AI%20That%20Transforms%20Business&descAlignY=65&descAlign=50)
+<!-- ====================== FUTURISTIC AI DEVELOPER HEADER ====================== -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&text=Amit%20Chandra%20|%20AI%20Engineer&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Building%20AI%20Products%20That%20Drive%20Business%20Impact&descAlignY=65&descAlign=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F0FF&size=26&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL+%7C+MLOps;Turning+Data+Into+Intelligence;Intelligent+Automation+%7C+Recommendation+Systems;FastAPI+%7C+Odoo+%7C+React+Expert" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAmitChandra&style=for-the-badge&color=0ea5e9" />
-  <img src="https://img.shields.io/github/followers/TheAmitChandra?style=for-the-badge&color=purple" />
-  <img src="https://img.shields.io/github/stars/TheAmitChandra?style=for-the-badge&color=yellow" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F8F8F8&size=26&center=true&vCenter=true&width=900&lines=AI+Engineer+|+Machine+Learning+Developer;Intelligent+Automation+|+MLOps;Python+Expert+|+FastAPI+|+Odoo+|+React;Solving+Real+Problems+With+AI+🚀" />
 </p>
 
 ---
 
-## 🤖 About Me — AI That Matters
-I build **AI that solves real business problems** — not just demos.
+## 👋 About Me
+Hi, I'm **Amit** — an **AI Engineer & Python Developer** passionate about building **end-to-end intelligent systems** that **solve real business challenges**.
 
-📌 *"From Models → To Products → To Impact"*
+📌 **Mission:** *Move AI from notebooks → into production → driving revenue*  
+🌍 Based in: India  
+🎯 Experience in **FinTech, Retail, and SaaS Automation**  
+🔥 Strong blend of **Backend + ML + Data Engineering + UX Integration**
 
-🔹 Applied AI in FinTech, Retail, and SaaS  
-🔹 Bridging **Backend + Machine Learning + UX**  
-🔹 Obsessed with **scalability + intelligent automation**  
-
+📄 Resume → *Drop your PDF link here*  
 🌐 Portfolio → https://theamitchandra.github.io  
-📄 Resume → *Add Your Resume URL Here*  
 
 ---
 
-## 🧠 Technical Intelligence Stack
+## 🧠 Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,sklearn,postgres,docker,git,linux,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,pytorch,tensorflow,sklearn,docker,postgres,aws,react,linux,git&theme=dark" />
 </p>
 
-> 📌 **Favorite Areas**: NLP, Recommender Systems, Optimization, Data Engineering
+> Focus Areas: **AI Agents, Recommender Systems, NLP, MLOps, Computer Vision**
 
 ---
 
-## 🚀 Smart Projects (with animations)
+## 🚀 Featured AI Projects
 
-| Project | Preview | Tech |
-|--------|--------|------|
-| 🎬 YouTube AI Recommendation System | <img src="https://media.tenor.com/0YP_5Ar72PoAAAAC/youtube-recommendation.gif" width="300"/> | Python · FastAPI · TF-IDF · KNN |
-| 💳 AI Payment Engine | <img src="https://media.tenor.com/jkL3RSbfqH8AAAAC/ai-fintech.gif" width="300"/> | ML · Automation · Fraud Prevention |
-| 📈 ML Pipeline System | <img src="https://media.tenor.com/YZPnGuPeZv0AAAAC/ml.gif" width="300"/> | Docker · Data Ops · Model Deployment |
+| Project | Preview | Highlights | Tech |
+|--------|:------:|------------|------|
+| 🎓 **AI Study Assistant (YouTube Agent)** | <img src="https://media.tenor.com/0YP_5Ar72PoAAAAC/youtube-recommendation.gif" width="230"/> | Extracts context from YouTube videos and answers queries like a tutor | LangChain • FastAPI • Vector DB |
+| 🧠 **Industry-Specific AI Agent (MCP + Multi-Tool)** | <img src="https://media.tenor.com/YZPnGuPeZv0AAAAC/ml.gif" width="230"/> | Multi-Tool Planner Agent to solve domain-focused problems | MCP • Tools • Production-grade |
+| 🎬 YouTube Recommender System | — | TF-IDF + Similarity Search + Analytics Dashboard | Python • FastAPI • ML |
+| 🔢 Sudoku Solver (ML + CV) | — | Vision-based digit recognition + real-time solving | TensorFlow • OpenCV |
+| 💳 Bank Customer Churn Prediction | — | ML pipeline with deployment readiness | Scikit-learn • EDA • Feature Engineering |
+| 🛒 E-Commerce Business Insights | — | 100K+ orders analyzed for business strategy | Data Engineering • Visualization |
 
-📌 More → https://github.com/TheAmitChandra?tab=repositories
-
----
-
-## 📊 AI Stats & Analytics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=tokyonight&hide_border=true)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+📌 Full Projects → https://github.com/TheAmitChandra?tab=repositories
 
 ---
 
-## 🧑‍💻 Weekly Coding Time (WakaTime)
-> *Real coding insights from past 7 days ⏱*
+## 🏆 Experience
 
-<div align="center">
-  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=AmitChandra&layout=compact&theme=react&hide_border=true)
+**Python Developer — Vervebot INC.**  
+*April 2024 – Present | Gurugram, India*  
+- Building **AI automation**, backend APIs, and data-driven intelligence solutions  
+- Improving decision systems through **data analysis & ML integration**
 
-</div>
+**Python Developer — Denpro Technologies**  
+*Jun 2023 – Jan 2024 | Noida, India*  
+- Built **Flask-based intelligent chatbot** integrating multiple data APIs  
+
+**Business Analyst — Vaidyamrit**  
+*Jun 2020 – May 2023 | Varanasi, India*  
+- Scaled digital revenue through **data-backed strategies** and web automation  
+
+**Web Developer — Creataum Technologies**  
+*Jun 2019 – Jan 2020 | Varanasi, India*  
+- Built responsive web apps with **REST API** integrations  
 
 ---
 
-## 🧬 AI Skill Graph (Dynamic)
+## 📚 Education
+
+🎓 **B.Tech — Computer Science & Engineering**  
+Dr. APJ Abdul Kalam Technical University  
+*CGPA: 7.48 | 2016–2020*
+
+---
+
+## 🎯 Skills Snapshot
+
+✔ Python • ML • DL • Data Engineering  
+✔ FastAPI • Flask • Django • REST APIs  
+✔ TensorFlow • PyTorch • Scikit-Learn  
+✔ SQL • PostgreSQL • Docker • AWS  
+✔ NLP • CV • Recommender Systems  
+✔ Frontend: React (Integration-level)  
+
+Soft Skills: Problem Solving, Ownership, Communication, Creativity
+
+Languages: 🇮🇳 Hindi · 🇬🇧 English
+
+---
+
+## 🧾 Certifications
+
+🏅 HackerRank — Python, SQL & Problem-Solving  
+🎓 Ethical Hacking & Security — IIT BHU  
+🎓 RC Drone Technology — IIT Kanpur  
+
+---
+
+## 📊 Stats That Matter
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAmitChandra&theme=tokyonight"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Evolution
+## 🐍 Contributions Visualization
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheAmitChandra/TheAmitChandra/output/github-contribution-grid-snake.svg" />
@@ -89,7 +114,7 @@ I build **AI that solves real business problems** — not just demos.
 
 ---
 
-## 🎯 Hire Me / Connect
+## 🤝 Let’s Build Together
 
 <p align="center">
 <a href="https://www.linkedin.com/in/theamitchandra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -99,4 +124,4 @@ I build **AI that solves real business problems** — not just demos.
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=130&section=footer&text=Let's%20Build%20the%20AI%20Future%20🚀&fontSize=22&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=130&section=footer&text=Let’s%20Shape%20the%20Future%20of%20AI%20Together%20🤝🚀&fontSize=22&fontColor=ffffff)
