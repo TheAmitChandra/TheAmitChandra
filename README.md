@@ -1,127 +1,77 @@
-<!-- ====================== FUTURISTIC AI DEVELOPER HEADER ====================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&text=Amit%20Chandra%20|%20AI%20Engineer&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Building%20AI%20Products%20That%20Drive%20Business%20Impact&descAlignY=65&descAlign=50)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F8F8F8&size=26&center=true&vCenter=true&width=900&lines=AI+Engineer+|+Machine+Learning+Developer;Intelligent+Automation+|+MLOps;Python+Expert+|+FastAPI+|+Odoo+|+React;Solving+Real+Problems+With+AI+🚀" />
+  <img src="https://github.com/TheAmitChandra/TheAmitChandra/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
----
-
-## 👋 About Me
-Hi, I'm **Amit** — an **AI Engineer & Python Developer** passionate about building **end-to-end intelligent systems** that **solve real business challenges**.
-
-📌 **Mission:** *Move AI from notebooks → into production → driving revenue*  
-🌍 Based in: India  
-🎯 Experience in **FinTech, Retail, and SaaS Automation**  
-🔥 Strong blend of **Backend + ML + Data Engineering + UX Integration**
-
-📄 Resume → *Drop your PDF link here*  
-🌐 Portfolio → https://theamitchandra.github.io  
-
----
-
-## 🧠 Core Technologies
+<img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+my+GitHub+Profile!" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,pytorch,tensorflow,sklearn,docker,postgres,aws,react,linux,git&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheAmitChandra&theme=monokai&row=1&column=6" alt="Trophies" />
 </p>
 
-> Focus Areas: **AI Agents, Recommender Systems, NLP, MLOps, Computer Vision**
+# Hello, I'm Amit Chandra! 👋
 
----
+I'm a passionate Python Developer with a love for coding, problem-solving, and continuous learning. Here's a little about me:
 
-## 🚀 Featured AI Projects
+## 🚀 About Me
 
-| Project | Preview | Highlights | Tech |
-|--------|:------:|------------|------|
-| 🎓 **AI Study Assistant (YouTube Agent)** | <img src="https://media.tenor.com/0YP_5Ar72PoAAAAC/youtube-recommendation.gif" width="230"/> | Extracts context from YouTube videos and answers queries like a tutor | LangChain • FastAPI • Vector DB |
-| 🧠 **Industry-Specific AI Agent (MCP + Multi-Tool)** | <img src="https://media.tenor.com/YZPnGuPeZv0AAAAC/ml.gif" width="230"/> | Multi-Tool Planner Agent to solve domain-focused problems | MCP • Tools • Production-grade |
-| 🎬 YouTube Recommender System | — | TF-IDF + Similarity Search + Analytics Dashboard | Python • FastAPI • ML |
-| 🔢 Sudoku Solver (ML + CV) | — | Vision-based digit recognition + real-time solving | TensorFlow • OpenCV |
-| 💳 Bank Customer Churn Prediction | — | ML pipeline with deployment readiness | Scikit-learn • EDA • Feature Engineering |
-| 🛒 E-Commerce Business Insights | — | 100K+ orders analyzed for business strategy | Data Engineering • Visualization |
+- 🌍 I'm based in New Delhi, India.
+- 💼 I work as a Python Developer at Vervebot INC.
+- 🌱 I'm constantly learning and improving my skills in Data Science.
+- 🎓 I hold a degree in B.Tech (Computer Science & Engineering) from AKTU.
+- 😄 Pronouns: He/Him
 
-📌 Full Projects → https://github.com/TheAmitChandra?tab=repositories
-
----
-
-## 🏆 Experience
-
-**Python Developer — Vervebot INC.**  
-*April 2024 – Present | Gurugram, India*  
-- Building **AI automation**, backend APIs, and data-driven intelligence solutions  
-- Improving decision systems through **data analysis & ML integration**
-
-**Python Developer — Denpro Technologies**  
-*Jun 2023 – Jan 2024 | Noida, India*  
-- Built **Flask-based intelligent chatbot** integrating multiple data APIs  
-
-**Business Analyst — Vaidyamrit**  
-*Jun 2020 – May 2023 | Varanasi, India*  
-- Scaled digital revenue through **data-backed strategies** and web automation  
-
-**Web Developer — Creataum Technologies**  
-*Jun 2019 – Jan 2020 | Varanasi, India*  
-- Built responsive web apps with **REST API** integrations  
-
----
-
-## 📚 Education
-
-🎓 **B.Tech — Computer Science & Engineering**  
-Dr. APJ Abdul Kalam Technical University  
-*CGPA: 7.48 | 2016–2020*
-
----
-
-## 🎯 Skills Snapshot
-
-✔ Python • ML • DL • Data Engineering  
-✔ FastAPI • Flask • Django • REST APIs  
-✔ TensorFlow • PyTorch • Scikit-Learn  
-✔ SQL • PostgreSQL • Docker • AWS  
-✔ NLP • CV • Recommender Systems  
-✔ Frontend: React (Integration-level)  
-
-Soft Skills: Problem Solving, Ownership, Communication, Creativity
-
-Languages: 🇮🇳 Hindi · 🇬🇧 English
-
----
-
-## 🧾 Certifications
-
-🏅 HackerRank — Python, SQL & Problem-Solving  
-🎓 Ethical Hacking & Security — IIT BHU  
-🎓 RC Drone Technology — IIT Kanpur  
-
----
-
-## 📊 Stats That Matter
+## 🔧 Technologies & Tools
 
 <p align="center">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,flask,c,html,css,javascript,mysql,aws,dynamodb,mongodb,postgresql,docker,git,&theme=dark" alt="Tech Stack" />
 </p>
 
----
-
-## 🐍 Contributions Visualization
+## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheAmitChandra/TheAmitChandra/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&bg_color=0d1117&title_color=ff3860&text_color=ffffff&icon_color=79ff97&border_color=ffffff" alt="GitHub Stats" />
 </p>
-
----
-
-## 🤝 Let’s Build Together
 
 <p align="center">
-<a href="https://www.linkedin.com/in/theamitchandra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:theamitchandra.ac@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://theamitchandra.github.io"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=dark&background=0d1117&border=ffffff&fire=ff3860&currStreakLabel=ff3860" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&bg_color=0d1117&title_color=ff3860&text_color=ffffff&icon_color=79ff97&border_color=ffffff" alt="Top Languages" />
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=130&section=footer&text=Let’s%20Shape%20the%20Future%20of%20AI%20Together%20🤝🚀&fontSize=22&fontColor=ffffff)
+## 📚 My Projects
+
+Here are a few projects I'm proud of:
+
+1. [Sudoku Solver](https://sudoku-solver-fv8o.onrender.com/)
+2. [Content Recommendation System](https://content-recommendation-system.onrender.com/)
+3. [Bank Customer Churn Prediction](https://github.com/TheAmitChandra/Bank-Customer-Churn-Prediction)
+4. [Data Analysis for Import-Export of India](https://github.com/TheAmitChandra/Data-Analysis-Import-Export-Of-India)
+5. [E-Commerce Data Analysis](https://github.com/TheAmitChandra/E-Commerce-Data-Analysis)
+6. [ChatBot](https://github.com/TheAmitChandra/ChatBot)
+7. [NFL Football Stats Explorer](https://github.com/TheAmitChandra/NFL-Football-Stats-Explorer)
+8. [Snake Game](https://github.com/TheAmitChandra/Snake-Game)
+9. [Brick Breaker Game](https://github.com/TheAmitChandra/Brick-Breaker)
+10. [Data Analysis of Youtube Trending Video Statistics](https://github.com/TheAmitChandra/DataAnalysisOfYoutubeTrendingVideoStatistics)
+11. [Pong Game](https://github.com/TheAmitChandra/Pong-Game)
+12. [Social Media Dashboard](https://github.com/TheAmitChandra/Social-Media-Dashboard)
+
+## 📫 How to Reach Me
+
+You can find me on:
+
+- 📧 Email: ask.amitchandra@gmail.com
+- 🔗 LinkedIn: [connect-amit-chandra](https://www.linkedin.com/in/connect-amit-chandra/)
+- 🔗 Dev: [amitchandra](https://dev.to/amitchandra/)
+- 🔗 HackerRank: [profile/amitchandra](https://www.hackerrank.com/profile/amitchandra/)
+- 🔗 Leetcode: [Amit-Chandra](https://leetcode.com/Amit-Chandra/)
+- 🔗 Replit: [@Amit-Chandra](https://replit.com/@Amit-Chandra)
+
+Feel free to connect, collaborate, or just say hi. I'm always open to interesting discussions and opportunities!
+
+## ❤️ Open Source Contributions
+
+I'm a strong advocate for open source and have contributed to various projects. If you have any interesting open source projects, don't hesitate to reach out. I'd love to collaborate.
+
+Thanks for visiting my GitHub profile! 😊
