@@ -5,7 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+my+GitHub+Profile!" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheAmitChandra&theme=monokai&row=1&column=7&no-frame=true&no-bg=false" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TheAmitChandra&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  </a>
 </p>
 
 # Hello, I'm Amit Chandra! 👋
@@ -29,7 +31,9 @@ I'm a passionate Python Developer with a love for coding, problem-solving, and c
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
@@ -37,7 +41,9 @@ I'm a passionate Python Developer with a love for coding, problem-solving, and c
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </a>
 </p>
 
 ## 📚 My Projects
