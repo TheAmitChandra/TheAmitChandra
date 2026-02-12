@@ -29,7 +29,7 @@ I'm a passionate Python Developer with a love for coding, problem-solving, and c
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAmitChandra&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -37,7 +37,8 @@ I'm a passionate Python Developer with a love for coding, problem-solving, and c
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheAmitChandra&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheAmitChandra&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheAmitChandra&theme=radical" alt="Repos per Language" />
 </p>
 
 ## 📚 My Projects
