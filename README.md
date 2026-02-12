@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+my+GitHub+Profile!" />
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheAmitChandra&theme=monokai&row=1&column=6" alt="Trophies" />
-</p> -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheAmitChandra&theme=monokai&row=1&column=7&no-frame=true&no-bg=false" alt="Trophies" />
+</p>
 
 # Hello, I'm Amit Chandra! 👋
 
@@ -29,15 +29,15 @@ I'm a passionate Python Developer with a love for coding, problem-solving, and c
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&bg_color=0d1117&title_color=ff3860&text_color=ffffff&icon_color=79ff97&border_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAmitChandra&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=dark&background=0d1117&border=ffffff&fire=ff3860&currStreakLabel=ff3860" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&layout=compact&bg_color=0d1117&title_color=ff3860&text_color=ffffff&icon_color=79ff97&border_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmitChandra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ## 📚 My Projects
