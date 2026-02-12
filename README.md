@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+my+GitHub+Profile!" />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheAmitChandra&theme=monokai&row=1&column=6" alt="Trophies" />
-</p>
+</p> -->
 
 # Hello, I'm Amit Chandra! 👋
 
