@@ -83,7 +83,6 @@ jobs:
                       after: $after,
                       ownerAffiliations: OWNER,
                       isFork: false,
-                      privacy: PUBLIC,
                       orderBy: { field: UPDATED_AT, direction: DESC }
                     ) {
                       nodes {
