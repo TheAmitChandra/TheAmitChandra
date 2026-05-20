@@ -101,7 +101,7 @@ I'm a passionate **AI/ML Engineer** specializing in **model building**, **RAG sy
 
 | Metric | Value |
 | --- | --- |
-| Most Commit Branch | TheAmitChandra/TheAmitChandra -> main (34 commits) |
+| Most Commit Branch | TheAmitChandra/TheAmitChandra -> main (37 commits) |
 | Most Commit Day | Shown in the Productive Time card above |
 
 <details>
@@ -114,7 +114,7 @@ I'm a passionate **AI/ML Engineer** specializing in **model building**, **RAG sy
 | [Feb 2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-02-01..2026-02-28&type=commits) | 14 |
 | [March 2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-03-01..2026-03-31&type=commits) | 10 |
 | [April 2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-04-01..2026-04-30&type=commits) | 15 |
-| [May 2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-05-01..2026-05-31&type=commits) | 4 |
+| [May 2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-05-01..2026-05-31&type=commits) | 6 |
 | [June 2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-06-01..2026-06-30&type=commits) | 0 |
 | [July 2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-07-01..2026-07-31&type=commits) | 0 |
 | [August 2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-08-01..2026-08-31&type=commits) | 0 |
@@ -132,7 +132,7 @@ I'm a passionate **AI/ML Engineer** specializing in **model building**, **RAG sy
 | --- | ---: |
 | [2024](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2024-01-01..2024-12-31&type=commits) | 3 |
 | [2025](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2025-01-01..2025-12-31&type=commits) | 22 |
-| [2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-01-01..2026-12-31&type=commits) | 47 |
+| [2026](https://github.com/search?q=author%3ATheAmitChandra%20author-date%3A2026-01-01..2026-12-31&type=commits) | 49 |
 
 </details>
 <!-- COMMIT_HISTORY_END -->
