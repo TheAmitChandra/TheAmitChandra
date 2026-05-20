@@ -22,7 +22,7 @@ I'm a passionate **AI/ML Engineer** specializing in **model building**, **RAG sy
 - ⚡ Building intelligent systems: Chatbots, Support Agents, WhatsApp integrations, and Database-connected AI solutions.
 - 🛠️ Strong hands-on experience with **Odoo ERP**, **Django**, **FastAPI**, **Flask**, and **Next.js**.
 - ☁️ Proficient in **AWS Cloud Services** (EC2, S3, Lambda, SageMaker, RDS, DynamoDB) and **DevOps** practices.
-- 🎓 I hold a degree in B.Tech (Computer Science & Engineering) from AKTU.
+- 🎓 I hold a degree in B.Tech (Computer Science & Engineering).
 - 😄 Pronouns: He/Him
 
 ## � Core Expertise
