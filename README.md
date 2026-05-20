@@ -97,35 +97,43 @@ I'm a passionate **AI/ML Engineer** specializing in **model building**, **RAG sy
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAmitChandra&theme=radical&utcOffset=5.5" alt="Most Commit Day and Time" />
 </p>
 
-### 🔍 Commit Filters
+### ✨ Commit Insights
 
-- **Most Commit Branch**: Auto-updated by workflow.
-- **Most Commit Day**: Shown in the **Productive Time** card above.
+| Metric | Value |
+| --- | --- |
+| Most Commit Branch | Updating from workflow... |
+| Most Commit Day | Shown in the Productive Time card above |
 
-**Month Wise Commit View (2026)**
+<details>
+<summary><strong>Month Wise Commit View (2026)</strong></summary>
 
 | Month | Commits |
 | --- | ---: |
-| [Jan 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-01-01..2026-01-31&type=commits) | - |
-| [Feb 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-02-01..2026-02-28&type=commits) | - |
-| [March 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-03-01..2026-03-31&type=commits) | - |
-| [April 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-04-01..2026-04-30&type=commits) | - |
-| [May 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-05-01..2026-05-31&type=commits) | - |
-| [June 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-06-01..2026-06-30&type=commits) | - |
-| [July 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-07-01..2026-07-31&type=commits) | - |
-| [August 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-08-01..2026-08-31&type=commits) | - |
-| [September 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-09-01..2026-09-30&type=commits) | - |
-| [October 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-10-01..2026-10-31&type=commits) | - |
-| [November 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-11-01..2026-11-30&type=commits) | - |
-| [December 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-12-01..2026-12-31&type=commits) | - |
+| [Jan 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-01-01..2026-01-31&type=commits) | Updating... |
+| [Feb 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-02-01..2026-02-28&type=commits) | Updating... |
+| [March 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-03-01..2026-03-31&type=commits) | Updating... |
+| [April 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-04-01..2026-04-30&type=commits) | Updating... |
+| [May 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-05-01..2026-05-31&type=commits) | Updating... |
+| [June 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-06-01..2026-06-30&type=commits) | Updating... |
+| [July 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-07-01..2026-07-31&type=commits) | Updating... |
+| [August 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-08-01..2026-08-31&type=commits) | Updating... |
+| [September 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-09-01..2026-09-30&type=commits) | Updating... |
+| [October 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-10-01..2026-10-31&type=commits) | Updating... |
+| [November 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-11-01..2026-11-30&type=commits) | Updating... |
+| [December 2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-12-01..2026-12-31&type=commits) | Updating... |
 
-**Year Wise Commit View**
+</details>
+
+<details>
+<summary><strong>Year Wise Commit View</strong></summary>
 
 | Year | Commits |
 | --- | ---: |
-| [2024](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2024-01-01..2024-12-31&type=commits) | - |
-| [2025](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2025-01-01..2025-12-31&type=commits) | - |
-| [2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-01-01..2026-12-31&type=commits) | - |
+| [2024](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2024-01-01..2024-12-31&type=commits) | Updating... |
+| [2025](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2025-01-01..2025-12-31&type=commits) | Updating... |
+| [2026](https://github.com/search?q=author%3ATheAmitChandra+author-date%3A2026-01-01..2026-12-31&type=commits) | Updating... |
+
+</details>
 <!-- COMMIT_HISTORY_END -->
 
 ## 📚 Featured Projects
