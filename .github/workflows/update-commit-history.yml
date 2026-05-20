@@ -1,0 +1,202 @@
+name: Update Commit History
+
+on:
+  schedule:
+    - cron: "20 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update commit history section
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+
+            const username = context.repo.owner;
+            const readmePath = 'README.md';
+            const startMarker = '<!-- COMMIT_HISTORY_START -->';
+            const endMarker = '<!-- COMMIT_HISTORY_END -->';
+
+            const monthNames = [
+              'Jan', 'Feb', 'March', 'April', 'May', 'June',
+              'July', 'August', 'September', 'October', 'November', 'December'
+            ];
+
+            function formatDateUTC(date) {
+              return date.toISOString().slice(0, 10);
+            }
+
+            function lastDayOfMonthUTC(year, monthIndex) {
+              return new Date(Date.UTC(year, monthIndex + 1, 0));
+            }
+
+            function commitSearchLink(login, from, to) {
+              const q = `author:${login} author-date:${from}..${to}`;
+              return `https://github.com/search?q=${encodeURIComponent(q)}&type=commits`;
+            }
+
+            async function getCommitCount(query) {
+              const res = await github.request('GET /search/commits', {
+                q: query,
+                per_page: 1,
+                headers: {
+                  accept: 'application/vnd.github.cloak-preview+json'
+                }
+              });
+              return res.data.total_count || 0;
+            }
+
+            async function getUserId(login) {
+              const result = await github.graphql(
+                `query($login: String!) { user(login: $login) { id } }`,
+                { login }
+              );
+              return result.user.id;
+            }
+
+            async function getTopCommitBranch(login, userId) {
+              let after = null;
+              let top = { repo: null, branch: null, commits: 0 };
+
+              const query = `
+                query($login: String!, $userId: ID!, $after: String) {
+                  user(login: $login) {
+                    repositories(
+                      first: 30,
+                      after: $after,
+                      ownerAffiliations: OWNER,
+                      isFork: false,
+                      privacy: PUBLIC,
+                      orderBy: { field: UPDATED_AT, direction: DESC }
+                    ) {
+                      nodes {
+                        name
+                        refs(refPrefix: "refs/heads/", first: 100) {
+                          nodes {
+                            name
+                            target {
+                              __typename
+                              ... on Commit {
+                                history(first: 1, author: { id: $userId }) {
+                                  totalCount
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                      pageInfo {
+                        hasNextPage
+                        endCursor
+                      }
+                    }
+                  }
+                }
+              `;
+
+              while (true) {
+                const data = await github.graphql(query, { login, userId, after });
+                const repos = data.user.repositories.nodes || [];
+
+                for (const repo of repos) {
+                  const branches = repo.refs?.nodes || [];
+                  for (const branch of branches) {
+                    const commits = branch.target?.history?.totalCount || 0;
+                    if (commits > top.commits) {
+                      top = { repo: repo.name, branch: branch.name, commits };
+                    }
+                  }
+                }
+
+                const pageInfo = data.user.repositories.pageInfo;
+                if (!pageInfo.hasNextPage) break;
+                after = pageInfo.endCursor;
+              }
+
+              return top;
+            }
+
+            const now = new Date();
+            const currentYear = now.getUTCFullYear();
+
+            const userId = await getUserId(username);
+            const topBranch = await getTopCommitBranch(username, userId);
+
+            const monthLines = [];
+            for (let i = 0; i < 12; i++) {
+              const start = formatDateUTC(new Date(Date.UTC(currentYear, i, 1)));
+              const end = formatDateUTC(lastDayOfMonthUTC(currentYear, i));
+              const query = `author:${username} author-date:${start}..${end}`;
+              const count = await getCommitCount(query);
+              const link = commitSearchLink(username, start, end);
+              monthLines.push(`- [${monthNames[i]} ${currentYear}](${link}) - ${count} commits`);
+            }
+
+            const startYear = 2024;
+            const yearLines = [];
+            for (let year = startYear; year <= currentYear; year++) {
+              const start = `${year}-01-01`;
+              const end = `${year}-12-31`;
+              const query = `author:${username} author-date:${start}..${end}`;
+              const count = await getCommitCount(query);
+              const link = commitSearchLink(username, start, end);
+              yearLines.push(`- [${year}](${link}) - ${count} commits`);
+            }
+
+            const topBranchText = topBranch.repo
+              ? `${username}/${topBranch.repo} -> ${topBranch.branch} (${topBranch.commits} commits)`
+              : 'No branch commit data found yet';
+
+            const dynamicBlock = [
+              '<p align="center">',
+              `  <img src="https://github-readme-activity-graph.vercel.app/graph?username=${username}&theme=github-compact&hide_border=false" alt="Commit Activity Graph" />`,
+              '</p>',
+              '',
+              '<p align="center">',
+              `  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=${username}&theme=radical&utcOffset=5.5" alt="Most Commit Day and Time" />`,
+              '</p>',
+              '',
+              '### 🔍 Commit Filters',
+              '',
+              `- **Most Commit Branch**: ${topBranchText}`,
+              '- **Most Commit Day**: Shown in the **Productive Time** card above.',
+              '',
+              `**Month Wise Commit View (${currentYear})**`,
+              '',
+              ...monthLines,
+              '',
+              '**Year Wise Commit View**',
+              '',
+              ...yearLines,
+            ].join('\n');
+
+            const readme = fs.readFileSync(readmePath, 'utf8');
+            const pattern = new RegExp(`${startMarker}[\\s\\S]*?${endMarker}`, 'm');
+
+            if (!pattern.test(readme)) {
+              core.setFailed('Commit history markers not found in README.md');
+              return;
+            }
+
+            const replacement = `${startMarker}\n${dynamicBlock}\n${endMarker}`;
+            const updated = readme.replace(pattern, replacement);
+
+            fs.writeFileSync(readmePath, updated, 'utf8');
+            core.info('README.md commit history section updated.');
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(readme): auto-update commit history section"
+          file_pattern: README.md
