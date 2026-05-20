@@ -2,7 +2,7 @@ name: Update Commit History
 
 on:
   schedule:
-    - cron: "20 1 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -133,25 +133,25 @@ jobs:
             const userId = await getUserId(username);
             const topBranch = await getTopCommitBranch(username, userId);
 
-            const monthLines = [];
+            const monthRows = [];
             for (let i = 0; i < 12; i++) {
               const start = formatDateUTC(new Date(Date.UTC(currentYear, i, 1)));
               const end = formatDateUTC(lastDayOfMonthUTC(currentYear, i));
               const query = `author:${username} author-date:${start}..${end}`;
               const count = await getCommitCount(query);
               const link = commitSearchLink(username, start, end);
-              monthLines.push(`- [${monthNames[i]} ${currentYear}](${link}) - ${count} commits`);
+              monthRows.push(`| [${monthNames[i]} ${currentYear}](${link}) | ${count} |`);
             }
 
             const startYear = 2024;
-            const yearLines = [];
+            const yearRows = [];
             for (let year = startYear; year <= currentYear; year++) {
               const start = `${year}-01-01`;
               const end = `${year}-12-31`;
               const query = `author:${username} author-date:${start}..${end}`;
               const count = await getCommitCount(query);
               const link = commitSearchLink(username, start, end);
-              yearLines.push(`- [${year}](${link}) - ${count} commits`);
+              yearRows.push(`| [${year}](${link}) | ${count} |`);
             }
 
             const topBranchText = topBranch.repo
@@ -169,16 +169,22 @@ jobs:
               '',
               '### 🔍 Commit Filters',
               '',
-              `- **Most Commit Branch**: ${topBranchText}`,
-              '- **Most Commit Day**: Shown in the **Productive Time** card above.',
+              '| Metric | Value |',
+              '| --- | --- |',
+              `| Most Commit Branch | ${topBranchText} |`,
+              '| Most Commit Day | Shown in the Productive Time card above |',
               '',
               `**Month Wise Commit View (${currentYear})**`,
               '',
-              ...monthLines,
+              '| Month | Commits |',
+              '| --- | ---: |',
+              ...monthRows,
               '',
               '**Year Wise Commit View**',
               '',
-              ...yearLines,
+              '| Year | Commits |',
+              '| --- | ---: |',
+              ...yearRows,
             ].join('\n');
 
             const readme = fs.readFileSync(readmePath, 'utf8');
