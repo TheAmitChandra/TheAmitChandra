@@ -294,23 +294,22 @@ Interactive Sudoku solver with instant solutions and step-by-step visualization 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 My Portfolio
-[![Visit](https://img.shields.io/badge/Visit-Portfolio-00C853)](https://theamitchandra.github.io/My-Portfolio)
-![Website](https://img.shields.io/badge/Website-Live-blue)
+### 🧠 RecoForge Edge
+[![Status](https://img.shields.io/badge/Status-MVP_Complete-success)](https://github.com/TheAmitChandra)
+[![Privacy](https://img.shields.io/badge/Privacy-First-blueviolet)](https://github.com/TheAmitChandra)
 
-**Personal Portfolio Website**
+**Personal Cross-Platform Recommendation Intelligence**
 
-Showcasing my projects, skills, and professional journey in AI/ML engineering. Built with modern web technologies.
+Browser-native recommendation system that learns from your real browsing behavior. Privacy-first, works everywhere you browse—not platform-locked.
 
 **Features:**
-- 🎨 Modern & Responsive Design
-- 💼 Project Showcase
-- 📱 Mobile-Friendly
-- ⚡ Fast & Optimized
+- 🔒 Privacy-First (Local Processing)
+- 🌐 Cross-Platform (Works Everywhere)
+- 🤖 LLaMA 3.2 3B Integration
+- 📊 Reinforcement Learning
+- ⚡ Real-Time Recommendations
 
-**Tech Stack:** `HTML` `CSS` `JavaScript` `GitHub Pages`
-
-🔗 [Visit Portfolio](https://theamitchandra.github.io/My-Portfolio)
+**Tech Stack:** `Django` `LLaMA` `RL` `JavaScript` `Next.js`
 
 </td>
 </tr>
