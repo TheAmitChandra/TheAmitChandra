@@ -142,196 +142,260 @@ I specialize in architecting and deploying **end-to-end AI/ML solutions** — fr
 
 ## 🎯 Featured Projects
 
-> Showcasing production-ready AI/ML solutions and innovative applications
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- NeuroMesh AI -->
+<div align="center">
+<h2>🤖 NeuroMesh AI</h2>
 
-### 🤖 NeuroMesh AI
-[![PyPI version](https://img.shields.io/pypi/v/neuromesh-ai.svg)](https://pypi.org/project/neuromesh-ai/)
-[![Downloads](https://pepy.tech/badge/neuromesh-ai)](https://pypi.org/project/neuromesh-ai/)
+[![PyPI](https://img.shields.io/pypi/v/neuromesh-ai?style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/neuromesh-ai/)
+[![Downloads](https://img.shields.io/pypi/dm/neuromesh-ai?style=flat-square&color=blue)](https://pypi.org/project/neuromesh-ai/)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 
-**AI-Powered Recommendation Engine Package**
+**Production-Ready AI Recommendation Engine Package on PyPI**
 
-A production-ready recommendation system package published on PyPI. Build intelligent recommendation engines using advanced ML algorithms and collaborative filtering.
+*Build intelligent recommendation systems with advanced ML algorithms and collaborative filtering*
 
 ```bash
 pip install neuromesh-ai
 ```
 
-**Tech Stack:** `Python` `ML` `Collaborative Filtering` `Deep Learning`
+`Python` • `Machine Learning` • `Collaborative Filtering` • `Deep Learning` • `PyPI Package`
 
-🔗 [PyPI Package](https://pypi.org/project/neuromesh-ai/)
+[📦 View on PyPI](https://pypi.org/project/neuromesh-ai/) • [📖 Documentation](https://pypi.org/project/neuromesh-ai/)
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 🧠 SchemaMind
-![Status](https://img.shields.io/badge/Status-Production-success)
-![AI Agent](https://img.shields.io/badge/AI-Agent-blueviolet)
-
-**AI Agent for Business Intelligence**
-
-Connect your database and unlock conversational AI. Ask anything about your data in natural language, powered by advanced LLMs and RAG systems.
-
-**Key Features:**
-- 🔌 Database Integration (PostgreSQL, MySQL, MongoDB)
-- 💬 Natural Language Queries
-- ⚡ Real-time Insights
-- 🔐 Secure & Scalable
-
-**Tech Stack:** `LangChain` `OpenAI` `RAG` `FastAPI`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔮 Cortext Flow
-![Status](https://img.shields.io/badge/Status-In_Development-orange)
-![Advanced](https://img.shields.io/badge/Advanced-AI_Agent-red)
-
-**Next-Generation AI Agent System**
-
-An advanced evolution of OpenClaw with autonomous reasoning, multi-step planning, and dynamic tool integration. Pushing the boundaries of AI agent capabilities.
-
-**Features:**
-- 🤖 Autonomous Multi-step Reasoning
-- 🛠️ Dynamic Tool Integration
-- 🧠 Advanced Planning Algorithms
-- 🔄 Self-improving Capabilities
-
-**Tech Stack:** `LangChain` `GPT-4` `AutoGPT` `LlamaIndex`
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ Tripmind
-![Status](https://img.shields.io/badge/Status-Production-success)
-![Platform](https://img.shields.io/badge/Full_Stack-AI_Platform-blue)
-
-**AI-Powered Travel Management Platform**
-
-Complete travel software combining booking platforms with intelligent AI agents. Smart recommendations, itinerary planning, and seamless experiences.
-
-**Features:**
-- 🎯 AI-Powered Recommendations
-- 🗺️ Smart Itinerary Planning
-- 💰 Real-time Pricing & Availability
-- 🏨 Hybrid Booking System
-
-**Tech Stack:** `Next.js` `Django` `OpenAI` `PostgreSQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Content Recommendation System
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://content-recommendation-system.onrender.com/)
-![ML](https://img.shields.io/badge/Deep-Learning-orange)
-
-**Advanced ML Recommendation Engine**
-
-Production-grade recommendation system using collaborative filtering and deep learning for personalized content delivery with low latency.
-
-**Features:**
-- 🧠 Hybrid Recommendation Algorithms
-- 👤 User Behavior Analysis
-- ⚡ Low Latency (<100ms)
-- 📈 Continuous Learning
-
-**Tech Stack:** `TensorFlow` `Python` `Flask` `Redis`
-
-🔗 [Live Demo](https://content-recommendation-system.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 AI Crop Recommendation System
-![ML Model](https://img.shields.io/badge/ML-Model-green)
-![Impact](https://img.shields.io/badge/Social-Impact-yellow)
-
-**Smart Agriculture Solution**
-
-ML-powered system helping farmers make data-driven crop decisions. Analyzes soil, climate, and regional factors for optimal crop selection.
-
-**Features:**
-- 🌱 ML-based Crop Prediction
-- 📊 Soil & Climate Analysis
-- 🎯 Regional Recommendations
-- 📈 Yield Optimization
-
-**Tech Stack:** `Scikit-learn` `Python` `Pandas` `Flask`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Sudoku Solver
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sudoku-solver-fv8o.onrender.com/)
-![Algorithm](https://img.shields.io/badge/Backtracking-Algorithm-blue)
-
-**AI-Powered Puzzle Solver**
-
-Interactive Sudoku solver with instant solutions and step-by-step visualization using efficient backtracking algorithms.
-
-**Features:**
-- ⚡ Instant Solution Generation
-- 📝 Step-by-step Visualization
-- 🎮 Interactive Interface
-- 🧠 Optimized Algorithm
-
-**Tech Stack:** `JavaScript` `React` `Algorithms`
-
-🔗 [Live Demo](https://sudoku-solver-fv8o.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 RecoForge Edge
-[![Status](https://img.shields.io/badge/Status-MVP_Complete-success)](https://github.com/TheAmitChandra)
-[![Privacy](https://img.shields.io/badge/Privacy-First-blueviolet)](https://github.com/TheAmitChandra)
-
-**Personal Cross-Platform Recommendation Intelligence**
-
-Browser-native recommendation system that learns from your real browsing behavior. Privacy-first, works everywhere you browse—not platform-locked.
-
-**Features:**
-- 🔒 Privacy-First (Local Processing)
-- 🌐 Cross-Platform (Works Everywhere)
-- 🤖 LLaMA 3.2 3B Integration
-- 📊 Reinforcement Learning
-- ⚡ Real-Time Recommendations
-
-**Tech Stack:** `Django` `LLaMA` `RL` `JavaScript` `Next.js`
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
+<br/>
+
+<!-- SchemaMind -->
+<div align="center">
+<h2>🧠 SchemaMind</h2>
+
+![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)
+![AI Agent](https://img.shields.io/badge/AI-Agent-blueviolet?style=flat-square)
+![Database](https://img.shields.io/badge/Database-Integrated-blue?style=flat-square)
+
+**AI Agent for Business Intelligence | Database-Connected Conversational AI**
+
+*Ask anything about your data in natural language, powered by advanced LLMs and RAG systems*
+
+**✨ Key Capabilities**
+- 🔌 Multi-Database Integration (PostgreSQL, MySQL, MongoDB)
+- 💬 Natural Language to SQL Conversion
+- ⚡ Real-time Data Insights
+- 🔐 Enterprise-grade Security
+
+`LangChain` • `OpenAI GPT` • `RAG Systems` • `FastAPI` • `SQL` • `Vector DB`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Cortext Flow -->
+<div align="center">
+<h2>🔮 Cortext Flow</h2>
+
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
+![Advanced](https://img.shields.io/badge/Advanced-AI_Agent-red?style=flat-square)
+![Autonomous](https://img.shields.io/badge/Autonomous-Reasoning-purple?style=flat-square)
+
+**Next-Generation Autonomous AI Agent System**
+
+*Advanced evolution of OpenClaw with autonomous reasoning, multi-step planning, and dynamic tool integration*
+
+**🚀 Advanced Features**
+- 🤖 Autonomous Multi-step Reasoning & Planning
+- 🛠️ Dynamic Tool Discovery & Integration
+- 🧠 Self-improving Learning Algorithms
+- 🔄 Adaptive Task Execution
+
+`LangChain` • `GPT-4` • `AutoGPT` • `LlamaIndex` • `Autonomous Agents` • `Tool Integration`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Tripmind -->
+<div align="center">
+<h2>✈️ Tripmind</h2>
+
+![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-AI_Platform-blue?style=flat-square)
+![Travel](https://img.shields.io/badge/Travel-Tech-orange?style=flat-square)
+
+**AI-Powered Travel Management Platform**
+
+*Complete travel software combining booking platforms with intelligent AI agents*
+
+**🌟 Platform Features**
+- 🎯 AI-Powered Travel Recommendations
+- 🗺️ Intelligent Itinerary Planning & Optimization
+- 💰 Real-time Pricing & Availability
+- 🏨 Hybrid Booking System (Zoastal + Airbnb)
+
+`Next.js` • `Django` • `OpenAI` • `PostgreSQL` • `REST API` • `Full Stack`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Content Recommendation System -->
+<div align="center">
+<h2>📊 Content Recommendation System</h2>
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-brightgreen?style=flat-square)](https://content-recommendation-system.onrender.com/)
+![ML](https://img.shields.io/badge/Deep-Learning-orange?style=flat-square)
+![Production](https://img.shields.io/badge/Production-Ready-success?style=flat-square)
+
+**Advanced ML Recommendation Engine**
+
+*Production-grade system using collaborative filtering and deep learning for personalized content delivery*
+
+**⚡ Performance Highlights**
+- 🧠 Hybrid Recommendation Algorithms (Collaborative + Content-based)
+- 👤 Real-time User Behavior Analysis
+- ⚡ Ultra-low Latency (<100ms response time)
+- 📈 Continuous Learning & Adaptation
+
+`TensorFlow` • `Python` • `Flask` • `Redis` • `Machine Learning` • `Collaborative Filtering`
+
+**[🔗 Try Live Demo](https://content-recommendation-system.onrender.com/)**
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- AI Crop Recommendation -->
+<div align="center">
+<h2>🌾 AI Crop Recommendation System</h2>
+
+![ML Model](https://img.shields.io/badge/ML-Model-green?style=flat-square)
+![Impact](https://img.shields.io/badge/Social-Impact-yellow?style=flat-square)
+![Agriculture](https://img.shields.io/badge/Agri-Tech-success?style=flat-square)
+
+**Smart Agriculture Solution for Farmers**
+
+*ML-powered system helping farmers make data-driven crop selection decisions*
+
+**🌱 Impact Features**
+- 🎯 ML-based Crop Prediction & Recommendations
+- 📊 Comprehensive Soil & Climate Analysis
+- 🌍 Regional Factor Consideration
+- 📈 Yield Optimization Strategies
+
+`Scikit-learn` • `Python` • `Pandas` • `Flask` • `Machine Learning` • `Data Science`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Sudoku Solver -->
+<div align="center">
+<h2>🧩 Sudoku Solver</h2>
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-brightgreen?style=flat-square)](https://sudoku-solver-fv8o.onrender.com/)
+![Algorithm](https://img.shields.io/badge/Backtracking-Algorithm-blue?style=flat-square)
+![Interactive](https://img.shields.io/badge/Interactive-UI-purple?style=flat-square)
+
+**AI-Powered Puzzle Solver**
+
+*Interactive Sudoku solver with instant solutions and step-by-step visualization*
+
+**🎮 Features**
+- ⚡ Instant Solution Generation
+- 📝 Step-by-step Visualization
+- 🎨 Clean Interactive Interface
+- 🧠 Optimized Backtracking Algorithm
+
+`JavaScript` • `React` • `Algorithms` • `Web Development`
+
+**[🔗 Try Live Demo](https://sudoku-solver-fv8o.onrender.com/)**
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- RecoForge Edge -->
+<div align="center">
+<h2>🧠 RecoForge Edge</h2>
+
+![Status](https://img.shields.io/badge/Status-MVP_Complete-success?style=flat-square)
+![Privacy](https://img.shields.io/badge/Privacy-First-blueviolet?style=flat-square)
+![Browser](https://img.shields.io/badge/Browser-Extension-blue?style=flat-square)
+
+**Personal Cross-Platform Recommendation Intelligence**
+
+*Browser-native recommendation system that learns from your real browsing behavior*
+
+**🔒 Privacy-First Features**
+- 🌐 Cross-Platform (Works on any website)
+- 🤖 LLaMA 3.2 3B Local Inference
+- 📊 Reinforcement Learning (Contextual Bandits)
+- ⚡ Real-time Recommendations
+- 🔐 Local Processing, No Tracking
+
+`Django` • `LLaMA` • `Reinforcement Learning` • `JavaScript` • `Next.js` • `Browser Extension`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Classic Games -->
+<div align="center">
+
 ### 🎮 Classic Games Collection
 
-<p align="center">
+<p>
   <a href="https://github.com/TheAmitChandra/Snake-Game">
     <img src="https://img.shields.io/badge/🐍_Snake_Game-Play_Now-4CAF50?style=for-the-badge" alt="Snake Game" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TheAmitChandra/Brick-Breaker">
     <img src="https://img.shields.io/badge/🧱_Brick_Breaker-Play_Now-FF5722?style=for-the-badge" alt="Brick Breaker" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TheAmitChandra/Pong-Game">
     <img src="https://img.shields.io/badge/🏓_Pong_Game-Play_Now-2196F3?style=for-the-badge" alt="Pong Game" />
   </a>
 </p>
+
+</div>
+
+<br/>
 
 ---
 
