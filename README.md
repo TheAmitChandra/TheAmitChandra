@@ -143,174 +143,92 @@ I specialize in architecting and deploying **end-to-end AI/ML solutions** — fr
 
 <div align="center">
 
-### 🤖 AI & Machine Learning Solutions
+---
 
-</div>
+### 🤖 **NeuroMesh AI**
+[![PyPI](https://img.shields.io/pypi/v/neuromesh-ai?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/neuromesh-ai/)
+[![Downloads](https://img.shields.io/pypi/dm/neuromesh-ai?style=for-the-badge)](https://pypi.org/project/neuromesh-ai/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 
-<table>
-<tr>
-<td width="50%">
+**AI-Powered Recommendation Engine Package**
 
-<h3 align="center">🚀 Relay AI</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/AI_Agent-Production-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WhatsApp-Integrated-25D366?style=for-the-badge&logo=whatsapp" />
-</div>
+A production-ready recommendation system package available on PyPI. Build intelligent recommendation engines with ease using advanced ML algorithms and collaborative filtering techniques.
 
-**Intelligent AI agent system with database connectivity**
+🔗 **[View on PyPI](https://pypi.org/project/neuromesh-ai/)** | 📦 `pip install neuromesh-ai`
 
-- ⚡ Direct database integration for real-time access
-- 🤝 Smart support agent with human handoff
-- 💬 WhatsApp-like communication interface
-- 🎯 Multi-channel enterprise support system
-- 🔗 LLM-powered conversational capabilities
+---
 
-</td>
-<td width="50%">
+### 🧠 **SchemaMind**
+[![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)](https://github.com/TheAmitChandra)
+[![AI Agent](https://img.shields.io/badge/AI-Agent-blueviolet?style=for-the-badge)](https://github.com/TheAmitChandra)
 
-<h3 align="center">✈️ Tripmind</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/AI_Powered-Travel_Platform-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full_Stack-Production-4ECDC4?style=for-the-badge" />
-</div>
+**AI Agent for Business Intelligence**
 
-**AI-integrated travel management platform**
+Connect your database and unlock the power of conversational AI. SchemaMind allows businesses to ask anything about their data in natural language, powered by advanced LLMs and RAG systems.
 
-- 🤖 AI-powered recommendations & booking
-- 🗺️ Intelligent itinerary planning
-- 💰 Real-time pricing & availability
-- 🏨 Zoastal + Airbnb hybrid features
-- ✨ Conversational AI interface
+✨ **Features:** Database Integration | Natural Language Queries | Real-time Insights | Multi-DB Support
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-<h3 align="center">🌾 AI Crop Recommendation</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/ML_Model-Agriculture-4CAF50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Impact-Farmers-FFA726?style=for-the-badge" />
-</div>
+### 🔮 **Cortext Flow**
+[![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)](https://github.com/TheAmitChandra)
+[![AI Agent](https://img.shields.io/badge/Advanced-AI_Agent-red?style=for-the-badge)](https://github.com/TheAmitChandra)
 
-**ML-powered crop selection for farmers**
+**Next-Generation AI Agent System**
 
-- 🎯 Trained on agricultural datasets
-- 🌱 Analyzes soil, climate, regional factors
-- 📊 Data-driven crop recommendations
-- 📈 Maximizes yield & sustainability
-- 🚜 Empowering agricultural decisions
+An advanced evolution of OpenClaw, featuring autonomous reasoning, multi-step planning, and tool integration. Currently in active development with cutting-edge AI agent capabilities.
 
-</td>
-<td width="50%">
+⚡ **Tech Stack:** LangChain | OpenAI GPT | Autonomous Agents | Tool Integration
 
-<h3 align="center">📦 Warehouse Management</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Enterprise-ERP_Solution-9C27B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Odoo-Customized-714B67?style=for-the-badge" />
-</div>
+---
 
-**Complete inventory & operations platform**
+### ✈️ **Tripmind**
+[![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)](https://github.com/TheAmitChandra)
+[![Full Stack](https://img.shields.io/badge/Full_Stack-AI_Platform-blue?style=for-the-badge)](https://github.com/TheAmitChandra)
 
-- 📦 Full inventory tracking system
-- 🤝 Vendor management (internal/external)
-- 📋 Purchase order automation
-- 🔔 Real-time stock alerts
-- 🏭 Multi-location support
+**AI-Powered Travel Management Platform**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Complete travel software combining the best of booking platforms with intelligent AI agents. Offers personalized recommendations, smart itinerary planning, and seamless booking experiences.
 
-<h3 align="center">📊 Content Recommendation</h3>
-<div align="center">
+🌟 **Features:** AI Recommendations | Itinerary Planning | Real-time Booking | Smart Pricing
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel)](https://content-recommendation-system.onrender.com/)
-<img src="https://img.shields.io/badge/Deep_Learning-Collaborative_Filtering-FF6F00?style=for-the-badge" />
+---
 
-</div>
+### 📊 **Content Recommendation System**
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://content-recommendation-system.onrender.com/)
+[![ML](https://img.shields.io/badge/Deep-Learning-orange?style=for-the-badge)](https://content-recommendation-system.onrender.com/)
 
-**Advanced recommendation engine**
+**Advanced ML Recommendation Engine**
 
-- 🧠 Collaborative filtering + deep learning
-- 👤 Personalized content delivery
-- ⚡ Real-time low-latency recommendations
-- 📈 User behavior analysis
+Production-grade recommendation system using collaborative filtering and deep learning. Delivers personalized content recommendations with low latency and high accuracy.
 
-</td>
-<td width="50%">
+🔗 **[Live Demo](https://content-recommendation-system.onrender.com/)**
 
-<h3 align="center">💳 Bank Churn Prediction</h3>
-<div align="center">
+---
 
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/TheAmitChandra/Bank-Customer-Churn-Prediction)
-<img src="https://img.shields.io/badge/ML_Model-Predictive-2196F3?style=for-the-badge" />
+### 🌾 **AI Crop Recommendation System**
+[![ML Model](https://img.shields.io/badge/ML-Model-green?style=for-the-badge&logo=python)](https://github.com/TheAmitChandra)
+[![Impact](https://img.shields.io/badge/Social-Impact-yellow?style=for-the-badge)](https://github.com/TheAmitChandra)
 
-</div>
+**Smart Agriculture Solution**
 
-**ML model for customer retention**
+ML-powered system helping farmers make data-driven crop selection decisions. Analyzes soil characteristics, climate patterns, and regional factors to recommend optimal crops for maximum yield.
 
-- 🎯 Predicts customer churn risk
-- 🔧 Advanced feature engineering
-- 📊 Interactive visualization dashboard
-- ✅ High accuracy optimization
+🌱 **Impact:** Empowering farmers with AI-driven agricultural insights
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-<h3 align="center">📱 Social Media Dashboard</h3>
-<div align="center">
+### 🧩 **Sudoku Solver**
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://sudoku-solver-fv8o.onrender.com/)
+[![Algorithm](https://img.shields.io/badge/Backtracking-Algorithm-blue?style=for-the-badge)](https://sudoku-solver-fv8o.onrender.com/)
 
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/TheAmitChandra/Social-Media-Dashboard)
-<img src="https://img.shields.io/badge/All_In_One-Platform-E91E63?style=for-the-badge" />
+**AI-Powered Puzzle Solver**
 
-</div>
+Interactive Sudoku solver with instant solutions and step-by-step visualization using efficient backtracking algorithms.
 
-**Unified social media management**
+🔗 **[Live Demo](https://sudoku-solver-fv8o.onrender.com/)**
 
-- 📲 Manage all platforms in one place
-- 📅 Schedule & track analytics
-- 👥 Multi-account enterprise support
-- 📊 Real-time performance metrics
-
-</td>
-<td width="50%">
-
-<h3 align="center">🧩 Sudoku Solver</h3>
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel)](https://sudoku-solver-fv8o.onrender.com/)
-<img src="https://img.shields.io/badge/Algorithm-Backtracking-FFC107?style=for-the-badge" />
-
-</div>
-
-**AI-powered puzzle solver**
-
-- 🎯 Backtracking algorithm
-- 🖥️ Interactive web interface
-- ⚡ Instant solution generation
-- 📝 Step-by-step visualization
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🎮 Classic Games Collection
-
-<a href="https://github.com/TheAmitChandra/Snake-Game">
-<img src="https://img.shields.io/badge/Snake_Game-Play-4CAF50?style=for-the-badge&logo=python" />
-</a>
-<a href="https://github.com/TheAmitChandra/Brick-Breaker">
-<img src="https://img.shields.io/badge/Brick_Breaker-Play-FF5722?style=for-the-badge&logo=python" />
-</a>
-<a href="https://github.com/TheAmitChandra/Pong-Game">
-<img src="https://img.shields.io/badge/Pong_Game-Play-2196F3?style=for-the-badge&logo=python" />
-</a>
+---
 
 </div>
 
