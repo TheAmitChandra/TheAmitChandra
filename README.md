@@ -20,6 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/connect-amit-chandra/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ask.amitchandra@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theamitchandra.github.io/My-Portfolio)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Amit-Chandra/)
 
 </div>
@@ -141,96 +142,197 @@ I specialize in architecting and deploying **end-to-end AI/ML solutions** — fr
 
 ## 🎯 Featured Projects
 
-<div align="center">
+> Showcasing production-ready AI/ML solutions and innovative applications
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 **NeuroMesh AI**
-[![PyPI](https://img.shields.io/pypi/v/neuromesh-ai?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/neuromesh-ai/)
-[![Downloads](https://img.shields.io/pypi/dm/neuromesh-ai?style=for-the-badge)](https://pypi.org/project/neuromesh-ai/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+### 🤖 NeuroMesh AI
+[![PyPI version](https://img.shields.io/pypi/v/neuromesh-ai.svg)](https://pypi.org/project/neuromesh-ai/)
+[![Downloads](https://pepy.tech/badge/neuromesh-ai)](https://pypi.org/project/neuromesh-ai/)
 
 **AI-Powered Recommendation Engine Package**
 
-A production-ready recommendation system package available on PyPI. Build intelligent recommendation engines with ease using advanced ML algorithms and collaborative filtering techniques.
+A production-ready recommendation system package published on PyPI. Build intelligent recommendation engines using advanced ML algorithms and collaborative filtering.
 
-🔗 **[View on PyPI](https://pypi.org/project/neuromesh-ai/)** | 📦 `pip install neuromesh-ai`
+```bash
+pip install neuromesh-ai
+```
 
----
+**Tech Stack:** `Python` `ML` `Collaborative Filtering` `Deep Learning`
 
-### 🧠 **SchemaMind**
-[![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)](https://github.com/TheAmitChandra)
-[![AI Agent](https://img.shields.io/badge/AI-Agent-blueviolet?style=for-the-badge)](https://github.com/TheAmitChandra)
+🔗 [PyPI Package](https://pypi.org/project/neuromesh-ai/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 SchemaMind
+![Status](https://img.shields.io/badge/Status-Production-success)
+![AI Agent](https://img.shields.io/badge/AI-Agent-blueviolet)
 
 **AI Agent for Business Intelligence**
 
-Connect your database and unlock the power of conversational AI. SchemaMind allows businesses to ask anything about their data in natural language, powered by advanced LLMs and RAG systems.
+Connect your database and unlock conversational AI. Ask anything about your data in natural language, powered by advanced LLMs and RAG systems.
 
-✨ **Features:** Database Integration | Natural Language Queries | Real-time Insights | Multi-DB Support
+**Key Features:**
+- 🔌 Database Integration (PostgreSQL, MySQL, MongoDB)
+- 💬 Natural Language Queries
+- ⚡ Real-time Insights
+- 🔐 Secure & Scalable
 
----
+**Tech Stack:** `LangChain` `OpenAI` `RAG` `FastAPI`
 
-### 🔮 **Cortext Flow**
-[![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)](https://github.com/TheAmitChandra)
-[![AI Agent](https://img.shields.io/badge/Advanced-AI_Agent-red?style=for-the-badge)](https://github.com/TheAmitChandra)
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 Cortext Flow
+![Status](https://img.shields.io/badge/Status-In_Development-orange)
+![Advanced](https://img.shields.io/badge/Advanced-AI_Agent-red)
 
 **Next-Generation AI Agent System**
 
-An advanced evolution of OpenClaw, featuring autonomous reasoning, multi-step planning, and tool integration. Currently in active development with cutting-edge AI agent capabilities.
+An advanced evolution of OpenClaw with autonomous reasoning, multi-step planning, and dynamic tool integration. Pushing the boundaries of AI agent capabilities.
 
-⚡ **Tech Stack:** LangChain | OpenAI GPT | Autonomous Agents | Tool Integration
+**Features:**
+- 🤖 Autonomous Multi-step Reasoning
+- 🛠️ Dynamic Tool Integration
+- 🧠 Advanced Planning Algorithms
+- 🔄 Self-improving Capabilities
 
----
+**Tech Stack:** `LangChain` `GPT-4` `AutoGPT` `LlamaIndex`
 
-### ✈️ **Tripmind**
-[![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)](https://github.com/TheAmitChandra)
-[![Full Stack](https://img.shields.io/badge/Full_Stack-AI_Platform-blue?style=for-the-badge)](https://github.com/TheAmitChandra)
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Tripmind
+![Status](https://img.shields.io/badge/Status-Production-success)
+![Platform](https://img.shields.io/badge/Full_Stack-AI_Platform-blue)
 
 **AI-Powered Travel Management Platform**
 
-Complete travel software combining the best of booking platforms with intelligent AI agents. Offers personalized recommendations, smart itinerary planning, and seamless booking experiences.
+Complete travel software combining booking platforms with intelligent AI agents. Smart recommendations, itinerary planning, and seamless experiences.
 
-🌟 **Features:** AI Recommendations | Itinerary Planning | Real-time Booking | Smart Pricing
+**Features:**
+- 🎯 AI-Powered Recommendations
+- 🗺️ Smart Itinerary Planning
+- 💰 Real-time Pricing & Availability
+- 🏨 Hybrid Booking System
 
----
+**Tech Stack:** `Next.js` `Django` `OpenAI` `PostgreSQL`
 
-### 📊 **Content Recommendation System**
-[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://content-recommendation-system.onrender.com/)
-[![ML](https://img.shields.io/badge/Deep-Learning-orange?style=for-the-badge)](https://content-recommendation-system.onrender.com/)
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Content Recommendation System
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://content-recommendation-system.onrender.com/)
+![ML](https://img.shields.io/badge/Deep-Learning-orange)
 
 **Advanced ML Recommendation Engine**
 
-Production-grade recommendation system using collaborative filtering and deep learning. Delivers personalized content recommendations with low latency and high accuracy.
+Production-grade recommendation system using collaborative filtering and deep learning for personalized content delivery with low latency.
 
-🔗 **[Live Demo](https://content-recommendation-system.onrender.com/)**
+**Features:**
+- 🧠 Hybrid Recommendation Algorithms
+- 👤 User Behavior Analysis
+- ⚡ Low Latency (<100ms)
+- 📈 Continuous Learning
 
----
+**Tech Stack:** `TensorFlow` `Python` `Flask` `Redis`
 
-### 🌾 **AI Crop Recommendation System**
-[![ML Model](https://img.shields.io/badge/ML-Model-green?style=for-the-badge&logo=python)](https://github.com/TheAmitChandra)
-[![Impact](https://img.shields.io/badge/Social-Impact-yellow?style=for-the-badge)](https://github.com/TheAmitChandra)
+🔗 [Live Demo](https://content-recommendation-system.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 AI Crop Recommendation System
+![ML Model](https://img.shields.io/badge/ML-Model-green)
+![Impact](https://img.shields.io/badge/Social-Impact-yellow)
 
 **Smart Agriculture Solution**
 
-ML-powered system helping farmers make data-driven crop selection decisions. Analyzes soil characteristics, climate patterns, and regional factors to recommend optimal crops for maximum yield.
+ML-powered system helping farmers make data-driven crop decisions. Analyzes soil, climate, and regional factors for optimal crop selection.
 
-🌱 **Impact:** Empowering farmers with AI-driven agricultural insights
+**Features:**
+- 🌱 ML-based Crop Prediction
+- 📊 Soil & Climate Analysis
+- 🎯 Regional Recommendations
+- 📈 Yield Optimization
 
----
+**Tech Stack:** `Scikit-learn` `Python` `Pandas` `Flask`
 
-### 🧩 **Sudoku Solver**
-[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://sudoku-solver-fv8o.onrender.com/)
-[![Algorithm](https://img.shields.io/badge/Backtracking-Algorithm-blue?style=for-the-badge)](https://sudoku-solver-fv8o.onrender.com/)
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Sudoku Solver
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sudoku-solver-fv8o.onrender.com/)
+![Algorithm](https://img.shields.io/badge/Backtracking-Algorithm-blue)
 
 **AI-Powered Puzzle Solver**
 
 Interactive Sudoku solver with instant solutions and step-by-step visualization using efficient backtracking algorithms.
 
-🔗 **[Live Demo](https://sudoku-solver-fv8o.onrender.com/)**
+**Features:**
+- ⚡ Instant Solution Generation
+- 📝 Step-by-step Visualization
+- 🎮 Interactive Interface
+- 🧠 Optimized Algorithm
+
+**Tech Stack:** `JavaScript` `React` `Algorithms`
+
+🔗 [Live Demo](https://sudoku-solver-fv8o.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 My Portfolio
+[![Visit](https://img.shields.io/badge/Visit-Portfolio-00C853)](https://theamitchandra.github.io/My-Portfolio)
+![Website](https://img.shields.io/badge/Website-Live-blue)
+
+**Personal Portfolio Website**
+
+Showcasing my projects, skills, and professional journey in AI/ML engineering. Built with modern web technologies.
+
+**Features:**
+- 🎨 Modern & Responsive Design
+- 💼 Project Showcase
+- 📱 Mobile-Friendly
+- ⚡ Fast & Optimized
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `GitHub Pages`
+
+🔗 [Visit Portfolio](https://theamitchandra.github.io/My-Portfolio)
+
+</td>
+</tr>
+</table>
 
 ---
 
-</div>
+### 🎮 Classic Games Collection
+
+<p align="center">
+  <a href="https://github.com/TheAmitChandra/Snake-Game">
+    <img src="https://img.shields.io/badge/🐍_Snake_Game-Play_Now-4CAF50?style=for-the-badge" alt="Snake Game" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TheAmitChandra/Brick-Breaker">
+    <img src="https://img.shields.io/badge/🧱_Brick_Breaker-Play_Now-FF5722?style=for-the-badge" alt="Brick Breaker" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TheAmitChandra/Pong-Game">
+    <img src="https://img.shields.io/badge/🏓_Pong_Game-Play_Now-2196F3?style=for-the-badge" alt="Pong Game" />
+  </a>
+</p>
 
 ---
 
