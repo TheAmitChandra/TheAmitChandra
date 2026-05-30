@@ -113,7 +113,7 @@ I architect and deploy **end-to-end AI/ML solutions** — from data pipelines an
 
 <p align="center">
   <img src="https://img.shields.io/pypi/v/neuromesh-ai?style=flat-square&logo=pypi&label=Latest+Version" />
-  <img src="https://img.shields.io/pypi/dm/neuromesh-ai?style=flat-square&label=Monthly+Downloads" />
+  <img src="https://img.shields.io/badge/PyPI-Published-3775A9?style=flat-square&logo=pypi&logoColor=white" />
   <img src="https://img.shields.io/pypi/l/neuromesh-ai?style=flat-square" />
   <img src="https://img.shields.io/badge/pip_install-neuromesh--ai-3775A9?style=flat-square&logo=python&logoColor=white" />
 </p>
