@@ -103,19 +103,22 @@ I architect and deploy **end-to-end AI/ML solutions** — from data pipelines an
 
 ## 🚀 Featured Projects
 
-### 📦 Open Source Package
+### 📦 Open Source — NeuroMesh AI
 
 <p align="center">
   <a href="https://pypi.org/project/neuromesh-ai/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmitChandra&repo=neuromesh-ai&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/%F0%9F%A4%96%20NeuroMesh%20AI-PyPI%20Package-3775A9?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/pypi/v/neuromesh-ai?style=flat-square&logo=pypi" />
-  <img src="https://img.shields.io/pypi/dm/neuromesh-ai?style=flat-square" />
+  <img src="https://img.shields.io/pypi/v/neuromesh-ai?style=flat-square&logo=pypi&label=Latest+Version" />
+  <img src="https://img.shields.io/pypi/dm/neuromesh-ai?style=flat-square&label=Monthly+Downloads" />
+  <img src="https://img.shields.io/pypi/l/neuromesh-ai?style=flat-square" />
   <img src="https://img.shields.io/badge/pip_install-neuromesh--ai-3775A9?style=flat-square&logo=python&logoColor=white" />
 </p>
+
+> AI-powered recommendation engine published on PyPI — build intelligent recommendation systems with advanced ML algorithms, collaborative filtering, and deep learning. Production-ready, battle-tested.
 
 <br/>
 
@@ -130,42 +133,24 @@ I architect and deploy **end-to-end AI/ML solutions** — from data pipelines an
 
 <br/>
 
-### 💻 ML Applications
+### 💻 ML Applications & Web Projects
 
-<p align="center">
-  <a href="https://content-recommendation-system.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmitChandra&repo=Content-Recommendation-System&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/TheAmitChandra/Bank-Customer-Churn-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmitChandra&repo=Bank-Customer-Churn-Prediction&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://sudoku-solver-fv8o.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmitChandra&repo=Sudoku-Solver&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/TheAmitChandra/Social-Media-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmitChandra&repo=Social-Media-Dashboard&theme=radical&hide_border=true" />
-  </a>
-</p>
+| | Project | Description | Stack | Link |
+|---|---------|-------------|-------|------|
+| 📊 | **Content Recommendation System** | Production-grade hybrid recommendation engine. Collaborative filtering + deep learning. Real-time user behavior analysis, <100ms latency | `TensorFlow` `Flask` `Redis` `Python` | [![Live](https://img.shields.io/badge/🚀_Live_Demo-brightgreen?style=flat-square)](https://content-recommendation-system.onrender.com/) |
+| 🌾 | **AI Crop Recommendation** | ML-powered crop selection for farmers. Analyzes soil, climate & regional data for optimal yield predictions | `Scikit-learn` `Pandas` `Flask` `Python` | ![](https://img.shields.io/badge/Deployed-2ea44f?style=flat-square) |
+| 🧩 | **Sudoku Solver** | Interactive solver with step-by-step visualization using optimized backtracking algorithm. Clean, fast UI | `JavaScript` `React` `Algorithms` | [![Live](https://img.shields.io/badge/🚀_Live_Demo-brightgreen?style=flat-square)](https://sudoku-solver-fv8o.onrender.com/) |
+| 📱 | **Social Media Dashboard** | Full-featured analytics dashboard with real-time data visualization and engagement tracking | `React` `Django` `PostgreSQL` `Chart.js` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/TheAmitChandra/Social-Media-Dashboard) |
 
 <br/>
 
 ### 🎮 Classic Games Collection
 
-<p align="center">
-  <a href="https://github.com/TheAmitChandra/Snake-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmitChandra&repo=Snake-Game&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/TheAmitChandra/Brick-Breaker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmitChandra/&repo=Brick-Breaker&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TheAmitChandra/Pong-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmitChandra&repo=Pong-Game&theme=radical&hide_border=true" />
-  </a>
-</p>
+| | Game | Description | Tech | Play |
+|---|------|-------------|------|------|
+| 🐍 | **Snake Game** | Classic snake with smooth controls, score tracking & increasing difficulty | `JavaScript` `Canvas API` | [![Play](https://img.shields.io/badge/▶_Play-4CAF50?style=flat-square)](https://github.com/TheAmitChandra/Snake-Game) |
+| 🧱 | **Brick Breaker** | Arcade-style brick breaker with physics, power-ups & multiple levels | `JavaScript` `Canvas API` | [![Play](https://img.shields.io/badge/▶_Play-FF5722?style=flat-square)](https://github.com/TheAmitChandra/Brick-Breaker) |
+| 🏓 | **Pong Game** | Two-player Pong with smooth paddle controls & real-time collision detection | `JavaScript` `Canvas API` | [![Play](https://img.shields.io/badge/▶_Play-2196F3?style=flat-square)](https://github.com/TheAmitChandra/Pong-Game) |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
