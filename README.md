@@ -34,7 +34,7 @@ focus    : AI Agents · RAG Systems · LLM Fine-tuning · Deep Learning · MLOps
 passion  : Building & training intelligent systems that solve real-world problems
 ```
 
-I don't just integrate AI — I **build and train custom models from scratch**. From designing neural network architectures and curating training datasets to fine-tuning LLMs and deploying production-grade AI agents, I own the full ML lifecycle. I architect end-to-end intelligent systems: custom-trained computer vision models, RAG pipelines, autonomous AI agents, and conversational interfaces that transform complex business challenges into elegant, scalable solutions.
+From designing neural network architectures and curating datasets to fine-tuning LLMs and shipping production AI agents — I own the full ML lifecycle end to end. My work spans computer vision models, RAG pipelines, autonomous agents, and conversational systems, all built to solve real business problems at scale.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
