@@ -30,11 +30,11 @@ name     : Amit Chandra
 role     : AI/ML Engineer @ Vervebot INC
 location : New Delhi, India
 education: B.Tech — Computer Science & Engineering (AKTU)
-focus    : AI Agents · RAG Systems · LLM Integration · ML Pipelines
-passion  : Shipping production-ready intelligent systems that solve real problems
+focus    : AI Agents · RAG Systems · LLM Integration · Custom Model Training
+passion  : Building & training intelligent systems that solve real-world problems
 ```
 
-I architect and deploy **end-to-end AI/ML solutions** — from data pipelines and model training to production AI agents, RAG systems, and conversational interfaces. I transform complex business challenges into elegant, scalable solutions.
+I don't just integrate AI — I **build and train custom models from scratch**. From designing neural network architectures and curating training datasets to fine-tuning LLMs and deploying production-grade AI agents, I own the full ML lifecycle. I architect end-to-end intelligent systems: custom-trained computer vision models, RAG pipelines, autonomous AI agents, and conversational interfaces that transform complex business challenges into elegant, scalable solutions.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
@@ -139,8 +139,8 @@ I architect and deploy **end-to-end AI/ML solutions** — from data pipelines an
 |---|---------|-------------|-------|------|
 | 📊 | **Content Recommendation System** | Production-grade hybrid recommendation engine. Collaborative filtering + deep learning. Real-time user behavior analysis, <100ms latency | `TensorFlow` `Flask` `Redis` `Python` | [![Live](https://img.shields.io/badge/🚀_Live_Demo-brightgreen?style=flat-square)](https://content-recommendation-system.onrender.com/) |
 | 🌾 | **AI Crop Recommendation** | ML-powered crop selection for farmers. Analyzes soil, climate & regional data for optimal yield predictions | `Scikit-learn` `Pandas` `Flask` `Python` | ![](https://img.shields.io/badge/Deployed-2ea44f?style=flat-square) |
-| 🧩 | **Sudoku Solver** | Interactive solver with step-by-step visualization using optimized backtracking algorithm. Clean, fast UI | `JavaScript` `React` `Algorithms` | [![Live](https://img.shields.io/badge/🚀_Live_Demo-brightgreen?style=flat-square)](https://sudoku-solver-fv8o.onrender.com/) |
-| 📱 | **Social Media Dashboard** | Full-featured analytics dashboard with real-time data visualization and engagement tracking | `React` `Django` `PostgreSQL` `Chart.js` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/TheAmitChandra/Social-Media-Dashboard) |
+| 🧩 | **Sudoku Solver** | Upload a Sudoku image or enter manually — CV model extracts digits, scikit-learn handles recognition, custom backtracking algorithm solves it. Downloadable results, error handling, polished UI | `Flask` `OpenCV` `scikit-learn` `Pillow` `JavaScript` | [![Live](https://img.shields.io/badge/🚀_Live_Demo-brightgreen?style=flat-square)](https://sudoku-solver-fv8o.onrender.com/) |
+| 🎯 | **AI Customer Support Agent** | Enterprise-grade RAG-powered support agent. Learns from knowledge base & historical tickets to auto-resolve tier-1 queries, analyze customer sentiment, detect churn risk, and escalate to humans when needed. Integrates with Zendesk, Freshdesk & Intercom | `RAG` `LangChain` `OpenAI` `FastAPI` `Vector DB` | ![](https://img.shields.io/badge/MVP-2ea44f?style=flat-square) |
 
 <br/>
 
