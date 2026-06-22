@@ -109,6 +109,9 @@ From designing neural network architectures and curating datasets to fine-tuning
   <a href="https://pypi.org/project/neuromesh-ai/">
     <img src="https://img.shields.io/badge/%F0%9F%A4%96%20NeuroMesh%20AI-PyPI%20Package-3775A9?style=for-the-badge&logo=python&logoColor=white" />
   </a>
+  <a href="https://theamitchandra.github.io/NeuroMesh-AI/">
+    <img src="https://img.shields.io/badge/📖%20Docs-NeuroMesh%20AI-blueviolet?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -119,6 +122,28 @@ From designing neural network architectures and curating datasets to fine-tuning
 </p>
 
 > AI-powered recommendation engine published on PyPI — build intelligent recommendation systems with advanced ML algorithms, collaborative filtering, and deep learning. Production-ready, battle-tested.
+
+<br/>
+
+### 📦 Open Source — NeuroAgent AI
+
+<p align="center">
+  <a href="https://pypi.org/project/neuroagent-ai/">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%96%20NeuroAgent%20AI-PyPI%20Package-3775A9?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://theamitchandra.github.io/NeuroAgent-AI/">
+    <img src="https://img.shields.io/badge/📖%20Docs-NeuroAgent%20AI-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/neuroagent-ai?style=flat-square&logo=pypi&label=Latest+Version" />
+  <a href="https://pepy.tech/project/neuroagent-ai"><img src="https://static.pepy.tech/badge/neuroagent-ai" /></a>
+  <img src="https://img.shields.io/pypi/l/neuroagent-ai?style=flat-square" />
+  <img src="https://img.shields.io/badge/pip_install-neuroagent--ai-3775A9?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+> The FastAPI of AI Agents — a provider-agnostic Python framework for building production-ready AI agents, multi-agent teams, RAG pipelines, and DAG-based workflows across OpenAI, Anthropic, Gemini, Groq & more, with built-in memory, observability, and one-line HTTP deployment.
 
 <br/>
 
