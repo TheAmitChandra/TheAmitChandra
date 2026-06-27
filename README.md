@@ -147,6 +147,28 @@ From designing neural network architectures and curating datasets to fine-tuning
 
 <br/>
 
+### 📦 Open Source — CortexFlow AI
+
+<p align="center">
+  <a href="https://pypi.org/project/cortexflow-ai/">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%96%20CortexFlow%20AI-PyPI%20Package-3775A9?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://theamitchandra.github.io/CortexFlow-AI/">
+    <img src="https://img.shields.io/badge/📖%20Docs-CortexFlow%20AI-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/cortexflow-ai?style=flat-square&logo=pypi&label=Latest+Version" />
+  <a href="https://pepy.tech/project/cortexflow-ai"><img src="https://static.pepy.tech/badge/cortexflow-ai" /></a>
+  <img src="https://img.shields.io/pypi/l/cortexflow-ai?style=flat-square" />
+  <img src="https://img.shields.io/badge/pip_install-cortexflow--ai-3775A9?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+> A unified, local-first AI agent gateway — one assistant across Telegram, Discord, Slack, WhatsApp & 10+ platforms, with a 3-tier memory system (Redis + Qdrant + SQLite), smart LLM routing across Claude, Gemini, DeepSeek, GPT-4 & Ollama, voice support, and a plugin SDK.
+
+<br/>
+
 ### 🤖 AI Agents & Intelligent Systems
 
 | | Project | Description | Stack | Status |
