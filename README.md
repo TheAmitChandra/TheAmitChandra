@@ -92,7 +92,7 @@ From designing neural network architectures and curating datasets to fine-tuning
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheAmitChandra&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmitChandra&theme=radical&hide_border=false&card_width=800" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheAmitChandra&theme=radical" />
