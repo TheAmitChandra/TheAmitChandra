@@ -96,7 +96,7 @@ From designing neural network architectures and curating datasets to fine-tuning
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheAmitChandra&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAmitChandra&theme=radical&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheAmitChandra&theme=radical&utcOffset=5.5&hide_border=false" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
