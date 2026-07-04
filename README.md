@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=TheAmitChandra&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/connect-amit-chandra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ask.amitchandra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://theamitchandra.github.io/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
