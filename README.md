@@ -41,174 +41,54 @@ From designing neural network architectures and curating datasets to fine-tuning
 ## 🔧 Tech Stack
 
 <p align="center"><b>AI / ML / Data Science</b></p>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      <br><b>TensorFlow</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-      <br><b>PyTorch</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />
-      <br><b>Scikit-Learn</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      <br><b>NumPy</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br><b>Pandas</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/🤗-FFD21E?style=flat" width="48" height="48" alt="HuggingFace" />
-      <br><b>HuggingFace</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/⚡-412991?style=flat" width="48" height="48" alt="OpenAI" />
-      <br><b>OpenAI</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/🦜-121212?style=flat" width="48" height="48" alt="LangChain" />
-      <br><b>LangChain</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/icons/python-original.svg" width="65" height="65" alt="Python" title="Python"/>&nbsp;
+  <img src="assets/icons/tensorflow-original.svg" width="65" height="65" alt="TensorFlow" title="TensorFlow"/>&nbsp;
+  <img src="assets/icons/pytorch-original.svg" width="65" height="65" alt="PyTorch" title="PyTorch"/>&nbsp;
+  <img src="assets/icons/scikitlearn-original.svg" width="65" height="65" alt="Scikit-Learn" title="Scikit-Learn"/>&nbsp;
+  <img src="assets/icons/numpy-original.svg" width="65" height="65" alt="NumPy" title="NumPy"/>&nbsp;
+  <img src="assets/icons/pandas-original.svg" width="65" height="65" alt="Pandas" title="Pandas"/>&nbsp;
+  <img src="assets/icons/jupyter-original.svg" width="65" height="65" alt="Jupyter" title="Jupyter"/>
+</p>
 
 <p align="center"><b>Backend & Frameworks</b></p>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-      <br><b>Django</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
-      <br><b>Flask</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-      <br><b>FastAPI</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br><b>Go</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br><b>Node.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/⚙️-714B67?style=flat" width="48" height="48" alt="Odoo" />
-      <br><b>Odoo</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/🔗-009688?style=flat" width="48" height="48" alt="REST API" />
-      <br><b>REST API</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/icons/django-plain.svg" width="65" height="65" alt="Django" title="Django"/>&nbsp;
+  <img src="assets/icons/flask-original.svg" width="65" height="65" alt="Flask" title="Flask"/>&nbsp;
+  <img src="assets/icons/fastapi-original.svg" width="65" height="65" alt="FastAPI" title="FastAPI"/>&nbsp;
+  <img src="assets/icons/go-original.svg" width="65" height="65" alt="Go" title="Go"/>&nbsp;
+  <img src="assets/icons/nodejs-original.svg" width="65" height="65" alt="Node.js" title="Node.js"/>
+</p>
 
 <p align="center"><b>Frontend</b></p>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br><b>Next.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br><b>React</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br><b>CSS3</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
-      <br><b>TailwindCSS</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/icons/nextjs-original.svg" width="65" height="65" alt="Next.js" title="Next.js"/>&nbsp;
+  <img src="assets/icons/react-original.svg" width="65" height="65" alt="React" title="React"/>&nbsp;
+  <img src="assets/icons/javascript-original.svg" width="65" height="65" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="assets/icons/html5-original.svg" width="65" height="65" alt="HTML5" title="HTML5"/>&nbsp;
+  <img src="assets/icons/css3-original.svg" width="65" height="65" alt="CSS3" title="CSS3"/>&nbsp;
+  <img src="assets/icons/tailwindcss-original.svg" width="65" height="65" alt="TailwindCSS" title="TailwindCSS"/>
+</p>
 
 <p align="center"><b>Databases</b></p>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br><b>PostgreSQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br><b>MongoDB</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      <br><b>Redis</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="DynamoDB" />
-      <br><b>DynamoDB</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Vector DB" />
-      <br><b>Vector DB</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/icons/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="assets/icons/mysql-original.svg" width="65" height="65" alt="MySQL" title="MySQL"/>&nbsp;
+  <img src="assets/icons/mongodb-original.svg" width="65" height="65" alt="MongoDB" title="MongoDB"/>&nbsp;
+  <img src="assets/icons/redis-original.svg" width="65" height="65" alt="Redis" title="Redis"/>&nbsp;
+  <img src="assets/icons/dynamodb-original.svg" width="65" height="65" alt="DynamoDB" title="DynamoDB"/>
+</p>
 
 <p align="center"><b>Cloud & DevOps</b></p>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      <br><b>AWS</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br><b>GitHub</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
-      <br><b>Kubernetes</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="CI/CD" />
-      <br><b>CI/CD</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/icons/amazonwebservices-plain-wordmark.svg" width="65" height="65" alt="AWS" title="AWS"/>&nbsp;
+  <img src="assets/icons/docker-original.svg" width="65" height="65" alt="Docker" title="Docker"/>&nbsp;
+  <img src="assets/icons/git-original.svg" width="65" height="65" alt="Git" title="Git"/>&nbsp;
+  <img src="assets/icons/github-original.svg" width="65" height="65" alt="GitHub" title="GitHub"/>&nbsp;
+  <img src="assets/icons/linux-original.svg" width="65" height="65" alt="Linux" title="Linux"/>&nbsp;
+  <img src="assets/icons/kubernetes-plain.svg" width="65" height="65" alt="Kubernetes" title="Kubernetes"/>&nbsp;
+  <img src="assets/icons/githubactions-original.svg" width="65" height="65" alt="GitHub Actions" title="GitHub Actions"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
