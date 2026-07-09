@@ -46,32 +46,27 @@ From designing neural network architectures and curating datasets to fine-tuning
   <img src="assets/icons/brick-pytorch.svg" alt="PyTorch"/>&nbsp;
   <img src="assets/icons/brick-scikitlearn.svg" alt="Scikit-Learn"/>&nbsp;
   <img src="assets/icons/brick-numpy.svg" alt="NumPy"/>&nbsp;
-  <img src="assets/icons/brick-pandas.svg" alt="Pandas"/>
-  <br/><br/>
+  <img src="assets/icons/brick-pandas.svg" alt="Pandas"/>&nbsp;
   <img src="assets/icons/brick-jupyter.svg" alt="Jupyter"/>&nbsp;
   <img src="assets/icons/brick-django.svg" alt="Django"/>&nbsp;
   <img src="assets/icons/brick-flask.svg" alt="Flask"/>&nbsp;
   <img src="assets/icons/brick-fastapi.svg" alt="FastAPI"/>&nbsp;
-  <img src="assets/icons/brick-go.svg" alt="Go"/>
-  <br/><br/>
+  <img src="assets/icons/brick-go.svg" alt="Go"/>&nbsp;
   <img src="assets/icons/brick-nodejs.svg" alt="Node.js"/>&nbsp;
   <img src="assets/icons/brick-nextjs.svg" alt="Next.js"/>&nbsp;
   <img src="assets/icons/brick-react.svg" alt="React"/>&nbsp;
-  <img src="assets/icons/brick-javascript.svg" alt="JavaScript"/>
-  <br/><br/>
+  <img src="assets/icons/brick-javascript.svg" alt="JavaScript"/>&nbsp;
   <img src="assets/icons/brick-html5.svg" alt="HTML5"/>&nbsp;
   <img src="assets/icons/brick-css3.svg" alt="CSS3"/>&nbsp;
   <img src="assets/icons/brick-tailwindcss.svg" alt="TailwindCSS"/>&nbsp;
   <img src="assets/icons/brick-postgresql.svg" alt="PostgreSQL"/>&nbsp;
   <img src="assets/icons/brick-mysql.svg" alt="MySQL"/>&nbsp;
-  <img src="assets/icons/brick-mongodb.svg" alt="MongoDB"/>
-  <br/><br/>
+  <img src="assets/icons/brick-mongodb.svg" alt="MongoDB"/>&nbsp;
   <img src="assets/icons/brick-redis.svg" alt="Redis"/>&nbsp;
   <img src="assets/icons/brick-dynamodb.svg" alt="DynamoDB"/>&nbsp;
   <img src="assets/icons/brick-amazonwebservices.svg" alt="AWS"/>&nbsp;
   <img src="assets/icons/brick-docker.svg" alt="Docker"/>&nbsp;
-  <img src="assets/icons/brick-git.svg" alt="Git"/>
-  <br/><br/>
+  <img src="assets/icons/brick-git.svg" alt="Git"/>&nbsp;
   <img src="assets/icons/brick-github.svg" alt="GitHub"/>&nbsp;
   <img src="assets/icons/brick-linux.svg" alt="Linux"/>&nbsp;
   <img src="assets/icons/brick-kubernetes.svg" alt="Kubernetes"/>&nbsp;
