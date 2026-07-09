@@ -46,19 +46,19 @@ From designing neural network architectures and curating datasets to fine-tuning
 <img src="assets/icons/brick-pytorch.svg" alt="PyTorch">
 <img src="assets/icons/brick-scikitlearn.svg" alt="Scikit-Learn">
 <img src="assets/icons/brick-numpy.svg" alt="NumPy">
-<img src="assets/icons/brick-pandas.svg" alt="Pandas">
 </br>
+<img src="assets/icons/brick-pandas.svg" alt="Pandas">
 <img src="assets/icons/brick-jupyter.svg" alt="Jupyter">
 <img src="assets/icons/brick-django.svg" alt="Django">
 <img src="assets/icons/brick-flask.svg" alt="Flask">
+</br>
 <img src="assets/icons/brick-fastapi.svg" alt="FastAPI">
 <img src="assets/icons/brick-go.svg" alt="Go">
-</br>
 <img src="assets/icons/brick-nodejs.svg" alt="Node.js">
 <img src="assets/icons/brick-nextjs.svg" alt="Next.js">
 <img src="assets/icons/brick-react.svg" alt="React">
-<img src="assets/icons/brick-javascript.svg" alt="JavaScript">
 </br>
+<img src="assets/icons/brick-javascript.svg" alt="JavaScript">
 <img src="assets/icons/brick-html5.svg" alt="HTML5">
 <img src="assets/icons/brick-css3.svg" alt="CSS3">
 <img src="assets/icons/brick-tailwindcss.svg" alt="TailwindCSS">
@@ -69,12 +69,12 @@ From designing neural network architectures and curating datasets to fine-tuning
 </br>
 <img src="assets/icons/brick-redis.svg" alt="Redis">
 <img src="assets/icons/brick-dynamodb.svg" alt="DynamoDB">
-<img src="assets/icons/brick-amazonwebservices.svg" alt="AWS">
 </br>
+<img src="assets/icons/brick-amazonwebservices.svg" alt="AWS">
 <img src="assets/icons/brick-docker.svg" alt="Docker">
 <img src="assets/icons/brick-git.svg" alt="Git">
-<img src="assets/icons/brick-github.svg" alt="GitHub">
 </br>
+<img src="assets/icons/brick-github.svg" alt="GitHub">
 <img src="assets/icons/brick-linux.svg" alt="Linux">
 <img src="assets/icons/brick-kubernetes.svg" alt="Kubernetes">
 </br>
