@@ -41,36 +41,41 @@ From designing neural network architectures and curating datasets to fine-tuning
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="assets/icons/brick-python.svg" alt="Python"/>&nbsp;
-  <img src="assets/icons/brick-tensorflow.svg" alt="TensorFlow"/>&nbsp;
-  <img src="assets/icons/brick-pytorch.svg" alt="PyTorch"/>&nbsp;
-  <img src="assets/icons/brick-scikitlearn.svg" alt="Scikit-Learn"/>&nbsp;
-  <img src="assets/icons/brick-numpy.svg" alt="NumPy"/>&nbsp;
-  <img src="assets/icons/brick-pandas.svg" alt="Pandas"/>&nbsp;
-  <img src="assets/icons/brick-jupyter.svg" alt="Jupyter"/>&nbsp;
-  <img src="assets/icons/brick-django.svg" alt="Django"/>&nbsp;
-  <img src="assets/icons/brick-flask.svg" alt="Flask"/>&nbsp;
-  <img src="assets/icons/brick-fastapi.svg" alt="FastAPI"/>&nbsp;
-  <img src="assets/icons/brick-go.svg" alt="Go"/>&nbsp;
-  <img src="assets/icons/brick-nodejs.svg" alt="Node.js"/>&nbsp;
-  <img src="assets/icons/brick-nextjs.svg" alt="Next.js"/>&nbsp;
-  <img src="assets/icons/brick-react.svg" alt="React"/>&nbsp;
-  <img src="assets/icons/brick-javascript.svg" alt="JavaScript"/>&nbsp;
-  <img src="assets/icons/brick-html5.svg" alt="HTML5"/>&nbsp;
-  <img src="assets/icons/brick-css3.svg" alt="CSS3"/>&nbsp;
-  <img src="assets/icons/brick-tailwindcss.svg" alt="TailwindCSS"/>&nbsp;
-  <img src="assets/icons/brick-postgresql.svg" alt="PostgreSQL"/>&nbsp;
-  <img src="assets/icons/brick-mysql.svg" alt="MySQL"/>&nbsp;
-  <img src="assets/icons/brick-mongodb.svg" alt="MongoDB"/>&nbsp;
-  <img src="assets/icons/brick-redis.svg" alt="Redis"/>&nbsp;
-  <img src="assets/icons/brick-dynamodb.svg" alt="DynamoDB"/>&nbsp;
-  <img src="assets/icons/brick-amazonwebservices.svg" alt="AWS"/>&nbsp;
-  <img src="assets/icons/brick-docker.svg" alt="Docker"/>&nbsp;
-  <img src="assets/icons/brick-git.svg" alt="Git"/>&nbsp;
-  <img src="assets/icons/brick-github.svg" alt="GitHub"/>&nbsp;
-  <img src="assets/icons/brick-linux.svg" alt="Linux"/>&nbsp;
-  <img src="assets/icons/brick-kubernetes.svg" alt="Kubernetes"/>&nbsp;
-  <img src="assets/icons/brick-githubactions.svg" alt="GitHub Actions"/>
+<img src="assets/icons/brick-python.svg" alt="Python">
+<img src="assets/icons/brick-tensorflow.svg" alt="TensorFlow">
+<img src="assets/icons/brick-pytorch.svg" alt="PyTorch">
+<img src="assets/icons/brick-scikitlearn.svg" alt="Scikit-Learn">
+<img src="assets/icons/brick-numpy.svg" alt="NumPy">
+<img src="assets/icons/brick-pandas.svg" alt="Pandas">
+<img src="assets/icons/brick-jupyter.svg" alt="Jupyter">
+</br>
+<img src="assets/icons/brick-django.svg" alt="Django">
+<img src="assets/icons/brick-flask.svg" alt="Flask">
+<img src="assets/icons/brick-fastapi.svg" alt="FastAPI">
+<img src="assets/icons/brick-go.svg" alt="Go">
+<img src="assets/icons/brick-nodejs.svg" alt="Node.js">
+<img src="assets/icons/brick-nextjs.svg" alt="Next.js">
+</br>
+<img src="assets/icons/brick-react.svg" alt="React">
+<img src="assets/icons/brick-javascript.svg" alt="JavaScript">
+<img src="assets/icons/brick-html5.svg" alt="HTML5">
+<img src="assets/icons/brick-css3.svg" alt="CSS3">
+<img src="assets/icons/brick-tailwindcss.svg" alt="TailwindCSS">
+</br>
+<img src="assets/icons/brick-postgresql.svg" alt="PostgreSQL">
+<img src="assets/icons/brick-mysql.svg" alt="MySQL">
+<img src="assets/icons/brick-mongodb.svg" alt="MongoDB">
+<img src="assets/icons/brick-redis.svg" alt="Redis">
+<img src="assets/icons/brick-dynamodb.svg" alt="DynamoDB">
+</br>
+<img src="assets/icons/brick-amazonwebservices.svg" alt="AWS">
+<img src="assets/icons/brick-docker.svg" alt="Docker">
+<img src="assets/icons/brick-git.svg" alt="Git">
+<img src="assets/icons/brick-github.svg" alt="GitHub">
+</br>
+<img src="assets/icons/brick-linux.svg" alt="Linux">
+<img src="assets/icons/brick-kubernetes.svg" alt="Kubernetes">
+<img src="assets/icons/brick-githubactions.svg" alt="GitHub Actions">
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
