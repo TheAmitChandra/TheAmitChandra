@@ -42,52 +42,52 @@ From designing neural network architectures and curating datasets to fine-tuning
 
 <p align="center"><b>AI / ML / Data Science</b></p>
 <p align="center">
-  <img src="assets/icons/python-original.svg" width="65" height="65" alt="Python" title="Python"/>&nbsp;
-  <img src="assets/icons/tensorflow-original.svg" width="65" height="65" alt="TensorFlow" title="TensorFlow"/>&nbsp;
-  <img src="assets/icons/pytorch-original.svg" width="65" height="65" alt="PyTorch" title="PyTorch"/>&nbsp;
-  <img src="assets/icons/scikitlearn-original.svg" width="65" height="65" alt="Scikit-Learn" title="Scikit-Learn"/>&nbsp;
-  <img src="assets/icons/numpy-original.svg" width="65" height="65" alt="NumPy" title="NumPy"/>&nbsp;
-  <img src="assets/icons/pandas-original.svg" width="65" height="65" alt="Pandas" title="Pandas"/>&nbsp;
-  <img src="assets/icons/jupyter-original.svg" width="65" height="65" alt="Jupyter" title="Jupyter"/>
+  <img src="assets/icons/brick-python.svg" alt="Python"/>&nbsp;
+  <img src="assets/icons/brick-tensorflow.svg" alt="TensorFlow"/>&nbsp;
+  <img src="assets/icons/brick-pytorch.svg" alt="PyTorch"/>&nbsp;
+  <img src="assets/icons/brick-scikitlearn.svg" alt="Scikit-Learn"/>&nbsp;
+  <img src="assets/icons/brick-numpy.svg" alt="NumPy"/>&nbsp;
+  <img src="assets/icons/brick-pandas.svg" alt="Pandas"/>&nbsp;
+  <img src="assets/icons/brick-jupyter.svg" alt="Jupyter"/>
 </p>
 
 <p align="center"><b>Backend & Frameworks</b></p>
 <p align="center">
-  <img src="assets/icons/django-plain.svg" width="65" height="65" alt="Django" title="Django"/>&nbsp;
-  <img src="assets/icons/flask-original.svg" width="65" height="65" alt="Flask" title="Flask"/>&nbsp;
-  <img src="assets/icons/fastapi-original.svg" width="65" height="65" alt="FastAPI" title="FastAPI"/>&nbsp;
-  <img src="assets/icons/go-original.svg" width="65" height="65" alt="Go" title="Go"/>&nbsp;
-  <img src="assets/icons/nodejs-original.svg" width="65" height="65" alt="Node.js" title="Node.js"/>
+  <img src="assets/icons/brick-django.svg" alt="Django"/>&nbsp;
+  <img src="assets/icons/brick-flask.svg" alt="Flask"/>&nbsp;
+  <img src="assets/icons/brick-fastapi.svg" alt="FastAPI"/>&nbsp;
+  <img src="assets/icons/brick-go.svg" alt="Go"/>&nbsp;
+  <img src="assets/icons/brick-nodejs.svg" alt="Node.js"/>
 </p>
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="assets/icons/nextjs-original.svg" width="65" height="65" alt="Next.js" title="Next.js"/>&nbsp;
-  <img src="assets/icons/react-original.svg" width="65" height="65" alt="React" title="React"/>&nbsp;
-  <img src="assets/icons/javascript-original.svg" width="65" height="65" alt="JavaScript" title="JavaScript"/>&nbsp;
-  <img src="assets/icons/html5-original.svg" width="65" height="65" alt="HTML5" title="HTML5"/>&nbsp;
-  <img src="assets/icons/css3-original.svg" width="65" height="65" alt="CSS3" title="CSS3"/>&nbsp;
-  <img src="assets/icons/tailwindcss-original.svg" width="65" height="65" alt="TailwindCSS" title="TailwindCSS"/>
+  <img src="assets/icons/brick-nextjs.svg" alt="Next.js"/>&nbsp;
+  <img src="assets/icons/brick-react.svg" alt="React"/>&nbsp;
+  <img src="assets/icons/brick-javascript.svg" alt="JavaScript"/>&nbsp;
+  <img src="assets/icons/brick-html5.svg" alt="HTML5"/>&nbsp;
+  <img src="assets/icons/brick-css3.svg" alt="CSS3"/>&nbsp;
+  <img src="assets/icons/brick-tailwindcss.svg" alt="TailwindCSS"/>
 </p>
 
 <p align="center"><b>Databases</b></p>
 <p align="center">
-  <img src="assets/icons/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
-  <img src="assets/icons/mysql-original.svg" width="65" height="65" alt="MySQL" title="MySQL"/>&nbsp;
-  <img src="assets/icons/mongodb-original.svg" width="65" height="65" alt="MongoDB" title="MongoDB"/>&nbsp;
-  <img src="assets/icons/redis-original.svg" width="65" height="65" alt="Redis" title="Redis"/>&nbsp;
-  <img src="assets/icons/dynamodb-original.svg" width="65" height="65" alt="DynamoDB" title="DynamoDB"/>
+  <img src="assets/icons/brick-postgresql.svg" alt="PostgreSQL"/>&nbsp;
+  <img src="assets/icons/brick-mysql.svg" alt="MySQL"/>&nbsp;
+  <img src="assets/icons/brick-mongodb.svg" alt="MongoDB"/>&nbsp;
+  <img src="assets/icons/brick-redis.svg" alt="Redis"/>&nbsp;
+  <img src="assets/icons/brick-dynamodb.svg" alt="DynamoDB"/>
 </p>
 
 <p align="center"><b>Cloud & DevOps</b></p>
 <p align="center">
-  <img src="assets/icons/amazonwebservices-plain-wordmark.svg" width="65" height="65" alt="AWS" title="AWS"/>&nbsp;
-  <img src="assets/icons/docker-original.svg" width="65" height="65" alt="Docker" title="Docker"/>&nbsp;
-  <img src="assets/icons/git-original.svg" width="65" height="65" alt="Git" title="Git"/>&nbsp;
-  <img src="assets/icons/github-original.svg" width="65" height="65" alt="GitHub" title="GitHub"/>&nbsp;
-  <img src="assets/icons/linux-original.svg" width="65" height="65" alt="Linux" title="Linux"/>&nbsp;
-  <img src="assets/icons/kubernetes-plain.svg" width="65" height="65" alt="Kubernetes" title="Kubernetes"/>&nbsp;
-  <img src="assets/icons/githubactions-original.svg" width="65" height="65" alt="GitHub Actions" title="GitHub Actions"/>
+  <img src="assets/icons/brick-amazonwebservices.svg" alt="AWS"/>&nbsp;
+  <img src="assets/icons/brick-docker.svg" alt="Docker"/>&nbsp;
+  <img src="assets/icons/brick-git.svg" alt="Git"/>&nbsp;
+  <img src="assets/icons/brick-github.svg" alt="GitHub"/>&nbsp;
+  <img src="assets/icons/brick-linux.svg" alt="Linux"/>&nbsp;
+  <img src="assets/icons/brick-kubernetes.svg" alt="Kubernetes"/>&nbsp;
+  <img src="assets/icons/brick-githubactions.svg" alt="GitHub Actions"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
