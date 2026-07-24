@@ -100,6 +100,31 @@ From designing neural network architectures and curating datasets to fine-tuning
 
 ## 🚀 Featured Projects
 
+### 📦 Open Source — NeuralCleave
+
+<p align="center">
+  <a href="https://pypi.org/project/neuralcleave/">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%96%20NeuralCleave-PyPI%20Package-3775A9?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://docs.neuralcleave.com/">
+    <img src="https://img.shields.io/badge/📖%20Docs-NeuralCleave-blueviolet?style=for-the-badge" />
+  </a>
+  <a href="https://neuralcleave.com/">
+    <img src="https://img.shields.io/badge/🌐%20Website-neuralcleave.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/neuralcleave?style=flat-square&logo=pypi&label=Latest+Version" />
+  <a href="https://pepy.tech/project/neuralcleave"><img src="https://static.pepy.tech/badge/neuralcleave" /></a>
+  <img src="https://img.shields.io/pypi/l/neuralcleave?style=flat-square" />
+  <img src="https://img.shields.io/badge/pip_install-neuralcleave-3775A9?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+> A local-first personal AI assistant gateway — one agent connected to 32 messaging platforms simultaneously (Telegram, Discord, Slack, WhatsApp & 28 more), with a 3-tier memory system (Redis + Qdrant + SQLite), task-aware LLM routing across 13 providers (Claude, GPT-4, Gemini, DeepSeek & Ollama), voice support via Whisper, ReflectionEngine for auto-scored response quality, and a typed plugin SDK with hot-reload. Production-ready: v2.1.0, 5,064 passing tests.
+
+<br/>
+
 ### 📦 Open Source — NeuroMesh AI
 
 <p align="center">
@@ -144,34 +169,11 @@ From designing neural network architectures and curating datasets to fine-tuning
 
 <br/>
 
-### 📦 Open Source — CortexFlow AI
-
-<p align="center">
-  <a href="https://pypi.org/project/cortexflow-ai/">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%96%20CortexFlow%20AI-PyPI%20Package-3775A9?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://theamitchandra.github.io/CortexFlow-AI/">
-    <img src="https://img.shields.io/badge/📖%20Docs-CortexFlow%20AI-blueviolet?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/pypi/v/cortexflow-ai?style=flat-square&logo=pypi&label=Latest+Version" />
-  <a href="https://pepy.tech/project/cortexflow-ai"><img src="https://static.pepy.tech/badge/cortexflow-ai" /></a>
-  <img src="https://img.shields.io/pypi/l/cortexflow-ai?style=flat-square" />
-  <img src="https://img.shields.io/badge/pip_install-cortexflow--ai-3775A9?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-> A unified, local-first AI agent gateway — one assistant across Telegram, Discord, Slack, WhatsApp & 10+ platforms, with a 3-tier memory system (Redis + Qdrant + SQLite), smart LLM routing across Claude, Gemini, DeepSeek, GPT-4 & Ollama, voice support, and a plugin SDK.
-
-<br/>
-
 ### 🤖 AI Agents & Intelligent Systems
 
 | | Project | Description | Stack | Status |
 |---|---------|-------------|-------|--------|
 | 🧠 | **SchemaMind** | AI agent for businesses — connect your database and ask anything in natural language using LLMs + RAG | `LangChain` `OpenAI` `FastAPI` `RAG` | ![](https://img.shields.io/badge/Production-2ea44f?style=flat-square) |
-| 🔮 | **Cortext Flow** | Advanced autonomous AI agent — next evolution of OpenClaw. Multi-step reasoning, dynamic tool use, self-improving | `GPT-4` `LangChain` `LlamaIndex` | ![](https://img.shields.io/badge/In_Dev-orange?style=flat-square) |
 | 🧠 | **RecoForge Edge** | Browser-native recommendation intelligence. Privacy-first, cross-platform, powered by LLaMA 3.2 3B + RL | `Django` `LLaMA` `RL` `Next.js` | ![](https://img.shields.io/badge/MVP_Complete-2ea44f?style=flat-square) |
 | ✈️ | **Tripmind** | Full-stack AI travel platform with smart itinerary planning, real-time booking & conversational AI | `Next.js` `Django` `OpenAI` `PostgreSQL` | ![](https://img.shields.io/badge/Production-2ea44f?style=flat-square) |
 
