@@ -29,7 +29,7 @@
 name     : Amit Chandra
 role     : AI/ML Engineer @ Vervebot INC
 location : New Delhi, India
-education: B.Tech — Computer Science & Engineering (AKTU)
+education: B.Tech — Computer Science & Engineering
 focus    : AI Agents · RAG Systems · LLM Fine-tuning · Deep Learning · MLOps · PyPI
 passion  : Building & training intelligent systems that solve real-world problems
 ```
