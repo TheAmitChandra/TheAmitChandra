@@ -103,6 +103,10 @@ From designing neural network architectures and curating datasets to fine-tuning
 ### 📦 Open Source — NeuralCleave
 
 <p align="center">
+  <img src="assets/neuralcleave-logo.png" alt="NeuralCleave" height="80" />
+</p>
+
+<p align="center">
   <a href="https://pypi.org/project/neuralcleave/">
     <img src="https://img.shields.io/badge/%F0%9F%A4%96%20NeuralCleave-PyPI%20Package-3775A9?style=for-the-badge&logo=python&logoColor=white" />
   </a>
