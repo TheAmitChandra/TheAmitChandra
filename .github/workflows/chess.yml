@@ -1,0 +1,44 @@
+name: Update chess history
+
+on:
+  schedule:
+    - cron: '23 */12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/update_chess.py
+      - .github/workflows/chess.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chess-history
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Fetch ratings and render history
+        run: python scripts/update_chess.py
+      - name: Commit changed history
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update chess rating history"
+          git pull --rebase origin main
+          git push origin HEAD:main

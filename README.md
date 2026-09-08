@@ -1,34 +1,51 @@
-﻿<div align="center">
+<img align="right" src="assets/anime.gif" width="230" alt="Kyubey running — animated anime companion" />
 
-# Hi, I'm Amit.
+### Hey, I'm Amit ☁️
 
-AI/ML engineer at Vervebot · New Delhi, India
+AI/ML engineer. Building things that think.
 
-I build AI agents, RAG systems, and open-source tools.<br>
-Away from code, you'll find me thinking about my next chess move.
+```text
+work     AI agents · RAG · open source
+tools    Python · PyTorch · FastAPI
+based    New Delhi, India
+offline  probably another game of chess
+```
 
 [Portfolio](https://theamitchandra.github.io/My-Portfolio) · [LinkedIn](https://www.linkedin.com/in/connect-amit-chandra/) · [Email](mailto:ask.amitchandra@gmail.com)
 
-<br>
+<br clear="both">
 
-`Python` · `PyTorch` · `FastAPI` · `Docker`
+**On my workbench** &nbsp; [NeuralCleave](https://neuralcleave.com/) / [NeuroAgent AI](https://pypi.org/project/neuroagent-ai/) / [NeuroMesh AI](https://pypi.org/project/neuromesh-ai/)
 
-<br>
+### ♟ Between commits, chess.
 
-**Things I'm building**
+My last 100 rated rapid games on [Chess.com](https://www.chess.com/member/thegeekyamit), one move at a time.
 
-[NeuralCleave](https://neuralcleave.com/) — a local-first personal AI assistant<br>
-[NeuroAgent AI](https://pypi.org/project/neuroagent-ai/) — a Python framework for AI agents<br>
-[NeuroMesh AI](https://pypi.org/project/neuromesh-ai/) — an ML-powered recommendation engine
+<!-- CHESS:START -->
+**Rapid 1096** · Personal best **1336**
 
-<br>
+```text
+RAPID / LAST 100 GAMES
 
-♞ **One more move.**
+1130 ┤
+1123 ┤    ╭╮                      ╭╮
+1117 ┤ ─╮╭╯╰╮╭╮                  ╭╯╰╮╭╮  ╭╮
+1110 ┤  ╰╯  ╰╯╰╮                 │  │││  ││                                          ╭╮  ╭╮
+1103 ┤         ╰╮    ╭╮     ╭╮╭╮╭╯  ╰╯╰╮╭╯╰╮                                  ╭╮╭╮╭╮╭╯╰╮╭╯╰╮
+1097 ┤          │    ││    ╭╯╰╯╰╯      ╰╯  ╰╮                  ╭╮          ╭╮╭╯╰╯╰╯╰╯  ╰╯  ╰╮             ╭
+1090 ┤          ╰╮  ╭╯╰╮  ╭╯                ╰╮╭╮              ╭╯╰╮╭╮╭╮    ╭╯╰╯              ╰╮╭╮    ╭╮   ╭╯
+1083 ┤           ╰╮╭╯  ╰╮╭╯                  ╰╯╰╮          ╭╮╭╯  ╰╯╰╯╰╮   │                  ╰╯╰╮╭╮╭╯╰╮ ╭╯
+1077 ┤            ╰╯    ╰╯                      ╰╮        ╭╯││        │  ╭╯                     ╰╯╰╯  │ │
+1070 ┤                                           │       ╭╯ ╰╯        ╰╮╭╯                            ╰─╯
+1063 ┤                                           ╰╮╭╮╭╮  │             ╰╯
+1057 ┤                                            ╰╯╰╯╰╮╭╯
+1050 ┤                                                 ╰╯
 
-[![Chess.com Rapid rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fthegeekyamit%2Fstats&query=%24.chess_rapid.last.rating&label=rapid&style=flat&color=6b8065&labelColor=30363d&cacheSeconds=3600)](https://www.chess.com/member/thegeekyamit)
+       30 Aug 2026 → 08 Sep 2026 · oldest to newest
+```
+<!-- CHESS:END -->
 
-[Let's play ↗](https://www.chess.com/member/thegeekyamit)
+<sub>Updated every 12 hours · [Play a game with me ↗](https://www.chess.com/member/thegeekyamit)</sub>
 
-<!-- Rating is fetched from Chess.com's public API by Shields.io. Caching can delay updates. -->
-
-</div>
+<!-- Visual inspiration and anime GIF: https://github.com/innng/innng
+     Chess history inspiration: https://github.com/sciencepal/sciencepal -->
