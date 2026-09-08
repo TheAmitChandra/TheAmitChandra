@@ -2,8 +2,10 @@
 
 ### Hey, I'm Amit ☁️
 
+<p><samp>
 I'm an AI/ML engineer, working from model training and LLM fine-tuning to production AI agents.<br>
 I build computer vision models, RAG pipelines, and conversational systems that solve real-world problems.
+</samp></p>
 
 ```text
 work     AI agents · RAG · open source
