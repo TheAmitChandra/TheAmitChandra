@@ -2,7 +2,8 @@
 
 ### Hey, I'm Amit ☁️
 
-AI/ML engineer. Building things that think.
+I'm an AI/ML engineer at Vervebot, working from model training and LLM fine-tuning to production AI agents.<br>
+I build computer vision models, RAG pipelines, and conversational systems that solve real-world problems.
 
 ```text
 work     AI agents · RAG · open source
@@ -17,7 +18,7 @@ offline  probably another game of chess
 
 **On my workbench** &nbsp; [NeuralCleave](https://neuralcleave.com/) / [NeuroAgent AI](https://pypi.org/project/neuroagent-ai/) / [NeuroMesh AI](https://pypi.org/project/neuromesh-ai/)
 
-### ♟ Between commits, chess.
+### <img src="assets/chess-pieces.svg" width="66" height="30" alt="White knight, king, and rook" /> Between commits, chess.
 
 My last 100 rated rapid games on [Chess.com](https://www.chess.com/member/thegeekyamit), one move at a time.
 
@@ -46,6 +47,12 @@ RAPID / LAST 100 GAMES
 <!-- CHESS:END -->
 
 <sub>Updated every 12 hours · [Play a game with me ↗](https://www.chess.com/member/thegeekyamit)</sub>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheAmitChandra&amp;label=profile+views&amp;color=6b8065&amp;style=flat-square" alt="Profile views counter" />
+</p>
 
 <!-- Visual inspiration and anime GIF: https://github.com/innng/innng
      Chess history inspiration: https://github.com/sciencepal/sciencepal -->

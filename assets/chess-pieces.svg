@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="40" viewBox="0 0 88 40" role="img" aria-labelledby="title">
+  <title id="title">White knight, king, and rook</title>
+  <g fill="#fff" stroke="#59636e" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Knight, left. -->
+    <path d="M5 33h20v4H5z M8 32c0-7 8-8 8-15l-5 4-6-3 5-10 5-2 1-4 4 5c8 5 7 16 2 25z"/>
+    <path d="m6 14 7 1M16 11h1" fill="none" stroke="#59636e" stroke-width="2"/>
+    <!-- King, center and slightly taller. -->
+    <path d="M41 2h6v4h4v5h-4v5h-6v-5h-4V6h4z"/>
+    <path d="M37 29 33 18q5-6 11 0 6-6 11 0l-4 11z M36 29h16v4H36z M33 33h22v4H33z"/>
+    <!-- Rook, right. -->
+    <path d="M65 7h5v5h4V7h5v5h4V7h4v12l-4 3v10H69V22l-4-3z M67 32h18v5H67z"/>
+    <path d="M69 22h14" fill="none"/>
+  </g>
+</svg>
