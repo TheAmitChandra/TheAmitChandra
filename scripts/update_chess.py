@@ -80,7 +80,8 @@ def render(stats, games):
     first, last = [datetime.fromtimestamp(games[i][0], timezone.utc).strftime("%d %b %Y") for i in (0, -1)]
     rapid = stats["chess_rapid"]
     return (
-        f"**Rapid {rapid['last']['rating']}** · Personal best **{rapid['best']['rating']}**\n\n"
+        f"<samp><strong>Rapid {rapid['last']['rating']}</strong> · Personal best "
+        f"<strong>{rapid['best']['rating']}</strong></samp>\n\n"
         f"```text\nRAPID / LAST {len(games)} GAMES\n\n{chart(ratings)}\n\n"
         f"       {first} → {last} · oldest to newest\n```"
     )

@@ -1,6 +1,6 @@
 <img align="right" src="assets/anime.gif" width="230" alt="Kyubey running — animated anime companion" />
 
-### Hey, I'm Amit ☁️
+### <samp>Hey, I'm Amit ☁️</samp>
 
 <p><samp>
 I'm an AI/ML engineer, working from model training and LLM fine-tuning to production AI agents.<br>
@@ -20,18 +20,20 @@ offline  probably another game of chess
 
 <br clear="both">
 
-**On my workbench**
+<samp><strong>On my workbench</strong></samp>
 
 [![NeuralCleave](assets/buttons/neuralcleave.svg)](https://neuralcleave.com/)
 [![NeuroAgent AI](assets/buttons/neuroagent.svg)](https://pypi.org/project/neuroagent-ai/)
 [![NeuroMesh AI](assets/buttons/neuromesh.svg)](https://pypi.org/project/neuromesh-ai/)
 
-### <img src="assets/chess-pieces.svg" width="66" height="36" alt="White knight, tall king, and rook" /> Between commits, chess.
+### <img src="assets/chess-pieces.svg" width="66" height="36" alt="White knight, tall king, and rook" /> <samp>Between commits, chess.</samp>
 
-My last 100 rated rapid games on [Chess.com](https://www.chess.com/member/thegeekyamit), one move at a time.
+<samp>My last 100 rated rapid games, one move at a time.</samp>
+
+[![Chess.com · Let's play](assets/buttons/chess.svg)](https://www.chess.com/member/thegeekyamit)
 
 <!-- CHESS:START -->
-**Rapid 1096** · Personal best **1336**
+<samp><strong>Rapid 1096</strong> · Personal best <strong>1336</strong></samp>
 
 ```text
 RAPID / LAST 100 GAMES
@@ -54,7 +56,7 @@ RAPID / LAST 100 GAMES
 ```
 <!-- CHESS:END -->
 
-<sub>Updated every 12 hours · [Play a game with me ↗](https://www.chess.com/member/thegeekyamit)</sub>
+<sub><samp>Updated every 12 hours</samp></sub>
 
 <br>
 
