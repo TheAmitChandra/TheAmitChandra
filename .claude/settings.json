@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/verve/Downloads/devicon-master/devicon-master/icons/amazonwebservices/**)"
+    ]
+  }
+}
