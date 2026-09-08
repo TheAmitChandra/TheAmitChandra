@@ -57,7 +57,9 @@ RAPID / LAST 100 GAMES
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAmitChandra&amp;label=profile+views&amp;color=6b8065&amp;style=flat-square" alt="Profile views counter" />
+  <a href="https://github.com/TheAmitChandra">
+    <img src="https://komarev.com/ghpvc/?username=TheAmitChandra&amp;label=Profile+views&amp;color=161b22&amp;style=flat" height="30" alt="Profile views counter" />
+  </a>
 </p>
 
 <!-- Visual inspiration and anime GIF: https://github.com/innng/innng
