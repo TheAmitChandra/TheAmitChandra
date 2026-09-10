@@ -62,7 +62,9 @@ RAPID / LAST 100 GAMES
 
 [![Total contributions, current streak, and best streak — updated daily](assets/github-activity.svg)](https://github.com/TheAmitChandra?tab=overview)
 
-<sub><samp>Public + shared private contributions · Streaks follow contribution-calendar days · Updated daily</samp></sub>
+<p align="center">
+  <samp><em>“Turn curiosity into code. Turn code into possibility.”</em></samp>
+</p>
 
 <br>
 
