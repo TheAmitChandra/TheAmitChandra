@@ -1,13 +1,15 @@
 """Generate a daily GitHub activity card using gh and GitHub's GraphQL API.
 
-Uses the workflow's built-in GH_TOKEN; no personal token or dependencies needed.
-Commit totals follow GitHub contribution eligibility. Streaks include all types
-of contribution-calendar activity, not just commits. Dates use UTC.
+ACTIVITY_METRIC selects commits or contributions. Contributions include the
+private activity the user shares on their profile. Exact private commit counts
+require an appropriately authorized GH_TOKEN; restricted counts are never
+assumed to be commits. Streaks follow contribution-calendar days in UTC.
 """
 
 from datetime import date, datetime, timedelta, timezone
 from html import escape
 import json
+import os
 from pathlib import Path
 import subprocess
 import time
@@ -32,7 +34,8 @@ def graphql(query, **variables):
     raise RuntimeError("GitHub activity query failed; keeping the existing card")
 
 
-def fetch_history(now):
+def fetch_history(now, metric="commits"):
+    validate_metric(metric)
     user = graphql(
         "query($login:String!){user(login:$login){createdAt "
         "contributionsCollection{contributionYears}}}", login=USERNAME,
@@ -45,7 +48,7 @@ def fetch_history(now):
       user(login:$login) {
         contributionsCollection(from:$from,to:$to) {
           totalCommitContributions
-          contributionCalendar { weeks { contributionDays { date contributionCount } } }
+          contributionCalendar { totalContributions weeks { contributionDays { date contributionCount } } }
         }
       }
     }"""
@@ -55,9 +58,10 @@ def fetch_history(now):
         collection = graphql(query, **{
             "login": USERNAME, "from": start.isoformat(), "to": end.isoformat(),
         })["user"]["contributionsCollection"]
-        count = collection["totalCommitContributions"]
+        count = (collection["totalCommitContributions"] if metric == "commits"
+                 else collection["contributionCalendar"]["totalContributions"])
         if not isinstance(count, int) or count < 0:
-            raise ValueError("Invalid commit count")
+            raise ValueError("Invalid activity count")
         total += count
         for week in collection["contributionCalendar"]["weeks"]:
             for day in week["contributionDays"]:
@@ -92,11 +96,20 @@ def streaks(days, today):
     return current, best
 
 
-def render(total, current, best, first_year, today):
-    title = f"{total:,} total commits, {current} day current streak, {best} day best streak"
+def validate_metric(metric):
+    if metric not in ("commits", "contributions"):
+        raise ValueError("ACTIVITY_METRIC must be commits or contributions")
+
+
+def render(total, current, best, first_year, today, metric="commits"):
+    validate_metric(metric)
+    title = f"{total:,} total {metric}, {current} day current streak, {best} day best streak"
+    description = ("GitHub-counted commits visible to the API token across contribution history."
+                   if metric == "commits" else
+                   "GitHub contribution-calendar total, including shared private activity, commits, pull requests, reviews, and issues.")
     cells = []
     for x, label, number, caption in (
-        (24, "TOTAL COMMITS", total, f"since {first_year}"),
+        (24, f"TOTAL {metric.upper()}", total, f"since {first_year}"),
         (234, "CURRENT STREAK", current, "consecutive days"),
         (444, "BEST STREAK", best, "consecutive days"),
     ):
@@ -105,7 +118,7 @@ def render(total, current, best, first_year, today):
   <text x="{x}" y="91" fill="#8daba0" font-size="11">{caption}</text>''')
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="660" height="142" viewBox="0 0 660 142" role="img" aria-labelledby="title desc">
   <title id="title">{escape(title)}</title>
-  <desc id="desc">GitHub-counted commits across contribution history. Streaks count active contribution-calendar days in UTC; today may still be in progress. Updated {today.isoformat()}.</desc>
+  <desc id="desc">{description} Streaks count active contribution-calendar days in UTC; today may still be in progress. Updated {today.isoformat()}.</desc>
   <rect x=".5" y=".5" width="659" height="141" rx="8" fill="#161b22" stroke="#38414c"/>
   <path d="M218 20v76M428 20v76M24 108h612" stroke="#303944"/>
   <g font-family="monospace">
@@ -119,12 +132,13 @@ def render(total, current, best, first_year, today):
 
 def main():
     now = datetime.now(timezone.utc)
-    total, days, first_year = fetch_history(now)
+    metric = os.environ.get("ACTIVITY_METRIC", "contributions")
+    total, days, first_year = fetch_history(now, metric)
     current, best = streaks(days, now.date())
-    svg = render(total, current, best, first_year, now.date())
+    svg = render(total, current, best, first_year, now.date(), metric)
     # All API calls and validation finish before replacing the published asset.
     OUTPUT.write_text(svg, encoding="utf-8")
-    print(f"Activity card: {total} commits, current streak {current}, best streak {best}")
+    print(f"Activity card: {total} {metric}, current streak {current}, best streak {best}")
 
 
 if __name__ == "__main__":

@@ -60,9 +60,9 @@ RAPID / LAST 100 GAMES
 
 ### <samp>A little every day.</samp>
 
-[![Total commits, current streak, and best streak — updated daily](assets/github-activity.svg)](https://github.com/TheAmitChandra?tab=overview)
+[![Total contributions, current streak, and best streak — updated daily](assets/github-activity.svg)](https://github.com/TheAmitChandra?tab=overview)
 
-<sub><samp>GitHub-counted commits · Streaks follow contribution-calendar days · Updated daily</samp></sub>
+<sub><samp>Public + shared private contributions · Streaks follow contribution-calendar days · Updated daily</samp></sub>
 
 <br>
 

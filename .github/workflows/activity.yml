@@ -32,6 +32,7 @@ jobs:
       - name: Generate activity card
         env:
           GH_TOKEN: ${{ github.token }}
+          ACTIVITY_METRIC: contributions
         run: python scripts/update_activity.py
       - name: Publish updated card
         run: |
