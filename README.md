@@ -16,6 +16,8 @@ offline  probably another game of chess
 
 [![Portfolio](assets/buttons/portfolio.svg)](https://theamitchandra.github.io/My-Portfolio)
 [![LinkedIn](assets/buttons/linkedin.svg)](https://www.linkedin.com/in/connect-amit-chandra/)
+[![PyPI](assets/buttons/pypi.svg)](https://pypi.org/user/theamitchandra/)
+[![Dev.to](assets/buttons/dev.svg)](https://dev.to/amitchandra/)
 [![Email](assets/buttons/email.svg)](mailto:ask.amitchandra@gmail.com)
 
 <br clear="both">
