@@ -58,6 +58,12 @@ RAPID / LAST 100 GAMES
 
 <sub><samp>Updated every 12 hours</samp></sub>
 
+### <samp>A little every day.</samp>
+
+[![Total commits, current streak, and best streak — updated daily](assets/github-activity.svg)](https://github.com/TheAmitChandra?tab=overview)
+
+<sub><samp>GitHub-counted commits · Streaks follow contribution-calendar days · Updated daily</samp></sub>
+
 <br>
 
 <p align="center">

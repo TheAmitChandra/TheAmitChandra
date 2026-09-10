@@ -1,0 +1,46 @@
+name: Update GitHub activity
+
+on:
+  schedule:
+    - cron: '41 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_activity.py
+      - tests/test_activity.py
+      - .github/workflows/activity.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate activity card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update_activity.py
+      - name: Publish updated card
+        run: |
+          git add assets/github-activity.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update GitHub activity card"
+          git pull --rebase origin main
+          git push origin HEAD:main
