@@ -35,26 +35,26 @@ offline  probably another game of chess
 [![Chess.com · Let's play](assets/buttons/chess.svg)](https://www.chess.com/member/thegeekyamit)
 
 <!-- CHESS:START -->
-<samp><strong>Rapid 1011</strong> · Personal best <strong>1336</strong></samp>
+<samp><strong>Rapid 1027</strong> · Personal best <strong>1336</strong></samp>
 
 ```text
 RAPID / LAST 100 GAMES
 
-1040 ┤                                                                                               ╭╮
-1029 ┤                                                                                          ╭╮╭╮╭╯╰╮
-1018 ┤                                                                             ╭╮    ╭╮╭╮  ╭╯╰╯╰╯  ╰╮╭╮
-1008 ┤                                                                            ╭╯╰╮  ╭╯╰╯╰╮╭╯        ╰╯╰
- 997 ┤                                                                          ╭─╯  ╰──╯    ╰╯
- 986 ┤                ╭╮                                                       ╭╯
- 975 ┤ ─╮╭╮  ╭╮╭╮    ╭╯╰╮╭╮                                     ╭╮         ╭─╮╭╯
- 964 ┤  ╰╯╰╮╭╯╰╯╰╮╭╮╭╯  ╰╯╰╮                                   ╭╯╰╮╭╮   ╭──╯ ╰╯
- 953 ┤     ╰╯    ╰╯╰╯      ╰╮╭╮               ╭╮              ╭╯  ╰╯╰─╮╭╯
- 942 ┤                      ╰╯╰──╮╭╮        ╭─╯╰───╮  ╭╮  ╭╮╭─╯       ╰╯
- 932 ┤                           ╰╯╰╮╭╮  ╭──╯      ╰╮╭╯╰╮╭╯╰╯
- 921 ┤                              ╰╯╰╮╭╯          ╰╯  ╰╯
- 910 ┤                                 ╰╯
+1040 ┤                                                                                          ╭╮
+1029 ┤                                                                                     ╭╮╭╮╭╯╰╮       ╭
+1018 ┤                                                                        ╭╮    ╭╮╭╮  ╭╯╰╯╰╯  ╰╮╭╮╭─╮╭╯
+1008 ┤                                                                       ╭╯╰╮  ╭╯╰╯╰╮╭╯        ╰╯╰╯ ╰╯
+ 997 ┤                                                                     ╭─╯  ╰──╯    ╰╯
+ 986 ┤           ╭╮                                                       ╭╯
+ 975 ┤  ╭╮╭╮    ╭╯╰╮╭╮                                     ╭╮         ╭─╮╭╯
+ 964 ┤ ─╯╰╯╰╮╭╮╭╯  ╰╯╰╮                                   ╭╯╰╮╭╮   ╭──╯ ╰╯
+ 953 ┤      ╰╯╰╯      ╰╮╭╮               ╭╮              ╭╯  ╰╯╰─╮╭╯
+ 942 ┤                 ╰╯╰──╮╭╮        ╭─╯╰───╮  ╭╮  ╭╮╭─╯       ╰╯
+ 932 ┤                      ╰╯╰╮╭╮  ╭──╯      ╰╮╭╯╰╮╭╯╰╯
+ 921 ┤                         ╰╯╰╮╭╯          ╰╯  ╰╯
+ 910 ┤                            ╰╯
 
-       08 Oct 2026 → 15 Oct 2026 · oldest to newest
+       10 Oct 2026 → 16 Oct 2026 · oldest to newest
 ```
 <!-- CHESS:END -->
 
