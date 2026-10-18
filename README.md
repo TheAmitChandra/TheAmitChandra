@@ -35,24 +35,24 @@ offline  probably another game of chess
 [![Chess.com · Let's play](assets/buttons/chess.svg)](https://www.chess.com/member/thegeekyamit)
 
 <!-- CHESS:START -->
-<samp><strong>Rapid 1026</strong> · Personal best <strong>1336</strong></samp>
+<samp><strong>Rapid 1034</strong> · Personal best <strong>1336</strong></samp>
 
 ```text
 RAPID / LAST 100 GAMES
 
-1050 ┤
-1038 ┤                                                                            ╭╮                   ╭──╮
-1027 ┤                                                                       ╭╮╭╮╭╯╰╮       ╭╮  ╭╮    ╭╯  ╰
-1015 ┤                                                          ╭╮    ╭───╮╭─╯╰╯╰╯  ╰───────╯╰──╯╰────╯
-1003 ┤                                                        ╭─╯╰─╮╭─╯   ╰╯
- 992 ┤                                                       ╭╯    ╰╯
- 980 ┤                                                  ╭─╮╭─╯
- 968 ┤ ─╮                                    ╭╮        ╭╯ ╰╯
- 957 ┤  ╰╮╭╮               ╭╮              ╭─╯╰────╮╭──╯
- 945 ┤   ╰╯╰─╮            ╭╯╰╮╭╮          ╭╯       ╰╯
- 933 ┤       ╰───╮╭╮  ╭───╯  ╰╯╰─╮╭──╮╭───╯
- 922 ┤           ╰╯╰╮╭╯          ╰╯  ╰╯
- 910 ┤              ╰╯
+1050 ┤                                                                                                  ╭╮
+1038 ┤                                                                  ╭╮                   ╭──╮ ╭╮  ╭─╯╰─
+1027 ┤                                                             ╭╮╭╮╭╯╰╮       ╭╮  ╭╮    ╭╯  ╰─╯╰╮╭╯
+1015 ┤                                                ╭╮    ╭───╮╭─╯╰╯╰╯  ╰───────╯╰──╯╰────╯       ╰╯
+1003 ┤                                              ╭─╯╰─╮╭─╯   ╰╯
+ 992 ┤                                             ╭╯    ╰╯
+ 980 ┤                                        ╭─╮╭─╯
+ 968 ┤                             ╭╮        ╭╯ ╰╯
+ 957 ┤           ╭╮              ╭─╯╰────╮╭──╯
+ 945 ┤          ╭╯╰╮╭╮          ╭╯       ╰╯
+ 933 ┤  ╭╮  ╭───╯  ╰╯╰─╮╭──╮╭───╯
+ 922 ┤ ─╯╰╮╭╯          ╰╯  ╰╯
+ 910 ┤    ╰╯
 
        11 Oct 2026 → 17 Oct 2026 · oldest to newest
 ```
