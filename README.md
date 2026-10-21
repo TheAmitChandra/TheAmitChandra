@@ -35,26 +35,26 @@ offline  probably another game of chess
 [![Chess.com · Let's play](assets/buttons/chess.svg)](https://www.chess.com/member/thegeekyamit)
 
 <!-- CHESS:START -->
-<samp><strong>Rapid 1010</strong> · Personal best <strong>1336</strong></samp>
+<samp><strong>Rapid 1002</strong> · Personal best <strong>1336</strong></samp>
 
 ```text
 RAPID / LAST 100 GAMES
 
-1050 ┤                                                                                     ╭╮
-1039 ┤                                                     ╭╮                   ╭──╮ ╭╮  ╭─╯╰─╮╭╮  ╭────╮
-1028 ┤                                                ╭╮╭╮╭╯╰╮       ╭╮  ╭╮    ╭╯  ╰─╯╰╮╭╯    ╰╯╰╮╭╯    ╰╮
-1018 ┤                                   ╭╮    ╭╮╭╮  ╭╯╰╯╰╯  ╰╮╭╮╭─╮╭╯╰╮╭╯╰╮╭╮╭╯       ╰╯        ╰╯      ╰╮
-1007 ┤                                  ╭╯╰╮  ╭╯╰╯╰──╯        ╰╯╰╯ ╰╯  ╰╯  ╰╯╰╯                           ╰
- 996 ┤                                ╭─╯  ╰──╯
- 985 ┤                               ╭╯
- 974 ┤                ╭╮        ╭────╯
- 963 ┤               ╭╯╰╮╭╮   ╭─╯
- 952 ┤              ╭╯  ╰╯╰─╮╭╯
- 942 ┤ ──╮  ╭╮  ╭╮╭─╯       ╰╯
- 931 ┤   ╰╮╭╯╰╮╭╯╰╯
- 920 ┤    ╰╯  ╰╯
+1050 ┤                                                                                    ╭╮
+1039 ┤                                                    ╭╮                   ╭──╮ ╭╮  ╭─╯╰─╮╭╮  ╭────╮
+1028 ┤                                               ╭╮╭╮╭╯╰╮       ╭╮  ╭╮    ╭╯  ╰─╯╰╮╭╯    ╰╯╰╮╭╯    ╰╮
+1018 ┤                                  ╭╮    ╭╮╭╮  ╭╯╰╯╰╯  ╰╮╭╮╭─╮╭╯╰╮╭╯╰╮╭╮╭╯       ╰╯        ╰╯      ╰╮
+1007 ┤                                 ╭╯╰╮  ╭╯╰╯╰──╯        ╰╯╰╯ ╰╯  ╰╯  ╰╯╰╯                           ╰─
+ 996 ┤                               ╭─╯  ╰──╯
+ 985 ┤                              ╭╯
+ 974 ┤               ╭╮        ╭────╯
+ 963 ┤              ╭╯╰╮╭╮   ╭─╯
+ 952 ┤             ╭╯  ╰╯╰─╮╭╯
+ 942 ┤ ─╮  ╭╮  ╭╮╭─╯       ╰╯
+ 931 ┤  ╰╮╭╯╰╮╭╯╰╯
+ 920 ┤   ╰╯  ╰╯
 
-       12 Oct 2026 → 19 Oct 2026 · oldest to newest
+       12 Oct 2026 → 20 Oct 2026 · oldest to newest
 ```
 <!-- CHESS:END -->
 
