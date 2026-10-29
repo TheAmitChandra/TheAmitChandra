@@ -35,26 +35,26 @@ offline  probably another game of chess
 [![Chess.com · Let's play](assets/buttons/chess.svg)](https://www.chess.com/member/thegeekyamit)
 
 <!-- CHESS:START -->
-<samp><strong>Rapid 973</strong> · Personal best <strong>1336</strong></samp>
+<samp><strong>Rapid 972</strong> · Personal best <strong>1336</strong></samp>
 
 ```text
 RAPID / LAST 100 GAMES
 
-1050 ┤                     ╭╮
-1041 ┤           ╭╮       ╭╯╰╮      ╭╮╭╮
-1032 ┤          ╭╯╰╮ ╭╮  ╭╯  ╰╮╭╮  ╭╯╰╯╰╮
-1022 ┤  ╭──╮╭╮╭─╯  ╰─╯╰──╯    ╰╯╰──╯    ╰─╮
-1013 ┤ ─╯  ╰╯╰╯                           ╰╮╭╮
-1004 ┤                                     ╰╯╰╮
- 995 ┤                                        ╰╮  ╭╮         ╭─╮
- 986 ┤                                         ╰╮╭╯╰╮       ╭╯ ╰╮                               ╭╮╭╮╭╮
- 977 ┤                                          ╰╯  ╰╮╭╮  ╭─╯   ╰─╮                ╭╮╭╮     ╭╮╭─╯╰╯╰╯╰─╮╭──
- 968 ┤                                               ╰╯╰──╯       ╰─╮   ╭╮       ╭─╯╰╯╰─╮╭╮╭╯╰╯        ╰╯
- 958 ┤                                                              ╰─╮╭╯╰╮ ╭╮╭╮╭╯      ╰╯╰╯
- 949 ┤                                                                ╰╯  ╰─╯╰╯╰╯
+1050 ┤               ╭╮
+1041 ┤     ╭╮       ╭╯╰╮      ╭╮╭╮
+1032 ┤    ╭╯╰╮ ╭╮  ╭╯  ╰╮╭╮  ╭╯╰╯╰╮
+1022 ┤  ╭─╯  ╰─╯╰──╯    ╰╯╰──╯    ╰─╮
+1013 ┤ ─╯                           ╰╮╭╮
+1004 ┤                               ╰╯╰╮
+ 995 ┤                                  ╰╮  ╭╮         ╭─╮
+ 986 ┤                                   ╰╮╭╯╰╮       ╭╯ ╰╮                               ╭╮╭╮╭╮
+ 977 ┤                                    ╰╯  ╰╮╭╮  ╭─╯   ╰─╮                ╭╮╭╮     ╭╮╭─╯╰╯╰╯╰─╮╭────╮╭╮
+ 968 ┤                                         ╰╯╰──╯       ╰─╮   ╭╮       ╭─╯╰╯╰─╮╭╮╭╯╰╯        ╰╯    ╰╯╰─
+ 958 ┤                                                        ╰─╮╭╯╰╮ ╭╮╭╮╭╯      ╰╯╰╯
+ 949 ┤                                                          ╰╯  ╰─╯╰╯╰╯
  940 ┤
 
-       17 Oct 2026 → 27 Oct 2026 · oldest to newest
+       17 Oct 2026 → 28 Oct 2026 · oldest to newest
 ```
 <!-- CHESS:END -->
 
