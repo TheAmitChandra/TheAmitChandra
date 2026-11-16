@@ -35,26 +35,26 @@ offline  probably another game of chess
 [![Chess.com · Let's play](assets/buttons/chess.svg)](https://www.chess.com/member/thegeekyamit)
 
 <!-- CHESS:START -->
-<samp><strong>Rapid 1104</strong> · Personal best <strong>1336</strong></samp>
+<samp><strong>Rapid 1118</strong> · Personal best <strong>1336</strong></samp>
 
 ```text
 RAPID / LAST 100 GAMES
 
-1120 ┤
-1105 ┤                                                                                                  ╭──
-1090 ┤                                                                                           ╭─╮  ╭─╯
-1075 ┤                                                                                      ╭────╯ ╰──╯
-1060 ┤                                                                                    ╭─╯
-1045 ┤                       ╭╮╭╮  ╭╮                                       ╭╮╭╮      ╭───╯
-1030 ┤                      ╭╯╰╯╰──╯╰───────╮      ╭╮╭──╮╭╮  ╭╮  ╭──╮╭──╮╭──╯╰╯╰─╮╭╮╭─╯
-1015 ┤               ╭╮╭────╯               ╰─╮╭╮╭─╯╰╯  ╰╯╰──╯╰──╯  ╰╯  ╰╯       ╰╯╰╯
-1000 ┤             ╭─╯╰╯                      ╰╯╰╯
- 985 ┤         ╭╮╭─╯
- 970 ┤     ╭╮╭─╯╰╯
- 955 ┤ ─╮╭─╯╰╯
- 940 ┤  ╰╯
+1120 ┤                                                                                                  ╭╮╭
+1106 ┤                                                                                              ╭───╯╰╯
+1092 ┤                                                                                       ╭─╮  ╭─╯
+1078 ┤                                                                                  ╭────╯ ╰──╯
+1063 ┤                                                                                 ╭╯
+1049 ┤                                                                             ╭╮╭─╯
+1035 ┤                  ╭────╮╭──╮╭╮╭╮            ╭╮          ╭╮  ╭╮  ╭─────╮    ╭─╯╰╯
+1021 ┤           ╭╮╭────╯    ╰╯  ╰╯╰╯╰───╮    ╭───╯╰───╮╭──╮╭─╯╰──╯╰──╯     ╰────╯
+1007 ┤          ╭╯╰╯                     ╰────╯        ╰╯  ╰╯
+ 992 ┤        ╭─╯
+ 978 ┤    ╭───╯
+ 964 ┤ ─╮╭╯
+ 950 ┤  ╰╯
 
-       01 Nov 2026 → 15 Nov 2026 · oldest to newest
+       02 Nov 2026 → 16 Nov 2026 · oldest to newest
 ```
 <!-- CHESS:END -->
 
